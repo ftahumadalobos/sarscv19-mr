@@ -1,6 +1,206 @@
-{
- "Deportista": [ "Macarena Pérez", "Karen Roco", "María José Maillard", "Catalina Soto", "Cupo por definir", "Virginia Yarur", "Katina Proestakis", "Selección Chilena Femenina", "Simona Castro", "Joaquín Niemann", "Guillermo Pereira", "María Fernada Valdés", "Arley Méndez", "Mary Dee Vargas", "Karen Gallardo", "Gabriel Kehr", "Humberto Mancilla", "Yasmani Acosta", "Martín Vidaurre", "Eduardo Cisternas", "Kristel Köbrich", "Esteban Bustos", "César Abaroa y Eber Sanhueza", "Josefina Tapia", "Manuel Selman", "Fernanda Aguirre", "Tomás Barrios", "Paulina Vega", "Andrés Aguilar", "Francisca Crovetto", "Bárbara Riveros", "Diego Moya", "Clemente Seguel", "Esteban y Marco Grimalt" ],
-"Prueba": [ "BMX", "Canotaje", "Canotaje", "Ciclismo ruta", "Equitación", "Equitación", "Esgrima", "Fútbol", "Gimnasia", "Golf", "Golf", "Halterofilia", "Halterofilia", "Judo", "Lanzamiento de disco", "Lanzamiento de martillo", "Lanzamiento de martillo", "Lucha grecorromana", "Mountainbike", "Natación", "Natación", "Pentatlón moderno", "Remo", "Skateboarding", "Surf", "Taekwondo", "Tenis", "Tenis de mesa", "Tiro con arco masculino", "Tiro Skeet", "Triatlón", "Triatlón", "Vela laser", "Vóleibol playa" ],
-"Fecha": [ "-", "-", "-", "-", "-", "-", "-", "-", "-", "-", "-", "-", "-", "-", "-", "-", "-", "-", "-", "-", "-", "-", "-", "-", "-", "-", "-", "-", "-", "-", "-", "-", "-", "-" ],
-"Resultado": [ "-", "-", "-", "-", "-", "-", "-", "-", "-", "-", "-", "-", "-", "-", "-", "-", "-", "-", "-", "-", "-", "-", "-", "-", "-", "-", "-", "-", "-", "-", "-", "-", "-", "-" ] 
-}
+[
+  {
+    "Deportista": "Macarena Pérez",
+    "Prueba": "BMX",
+    "Fecha": "-",
+    "Resultado": "-"
+  },
+  {
+    "Deportista": "Karen Roco",
+    "Prueba": "Canotaje",
+    "Fecha": "-",
+    "Resultado": "-"
+  },
+  {
+    "Deportista": "María José Maillard",
+    "Prueba": "Canotaje",
+    "Fecha": "-",
+    "Resultado": "-"
+  },
+  {
+    "Deportista": "Catalina Soto",
+    "Prueba": "Ciclismo ruta",
+    "Fecha": "-",
+    "Resultado": "-"
+  },
+  {
+    "Deportista": "Cupo por definir",
+    "Prueba": "Equitación",
+    "Fecha": "-",
+    "Resultado": "-"
+  },
+  {
+    "Deportista": "Virginia Yarur",
+    "Prueba": "Equitación",
+    "Fecha": "-",
+    "Resultado": "-"
+  },
+  {
+    "Deportista": "Katina Proestakis",
+    "Prueba": "Esgrima",
+    "Fecha": "-",
+    "Resultado": "-"
+  },
+  {
+    "Deportista": "Selección Chilena Femenina",
+    "Prueba": "Fútbol",
+    "Fecha": "-",
+    "Resultado": "-"
+  },
+  {
+    "Deportista": "Simona Castro",
+    "Prueba": "Gimnasia",
+    "Fecha": "-",
+    "Resultado": "-"
+  },
+  {
+    "Deportista": "Joaquín Niemann",
+    "Prueba": "Golf",
+    "Fecha": "-",
+    "Resultado": "-"
+  },
+  {
+    "Deportista": "Guillermo Pereira",
+    "Prueba": "Golf",
+    "Fecha": "-",
+    "Resultado": "-"
+  },
+  {
+    "Deportista": "María Fernada Valdés",
+    "Prueba": "Halterofilia",
+    "Fecha": "-",
+    "Resultado": "-"
+  },
+  {
+    "Deportista": "Arley Méndez",
+    "Prueba": "Halterofilia",
+    "Fecha": "-",
+    "Resultado": "-"
+  },
+  {
+    "Deportista": "Mary Dee Vargas",
+    "Prueba": "Judo",
+    "Fecha": "-",
+    "Resultado": "-"
+  },
+  {
+    "Deportista": "Karen Gallardo",
+    "Prueba": "Lanzamiento de disco",
+    "Fecha": "-",
+    "Resultado": "-"
+  },
+  {
+    "Deportista": "Gabriel Kehr",
+    "Prueba": "Lanzamiento de martillo",
+    "Fecha": "-",
+    "Resultado": "-"
+  },
+  {
+    "Deportista": "Humberto Mancilla",
+    "Prueba": "Lanzamiento de martillo",
+    "Fecha": "-",
+    "Resultado": "-"
+  },
+  {
+    "Deportista": "Yasmani Acosta",
+    "Prueba": "Lucha grecorromana",
+    "Fecha": "-",
+    "Resultado": "-"
+  },
+  {
+    "Deportista": "Martín Vidaurre",
+    "Prueba": "Mountainbike",
+    "Fecha": "-",
+    "Resultado": "-"
+  },
+  {
+    "Deportista": "Eduardo Cisternas",
+    "Prueba": "Natación",
+    "Fecha": "-",
+    "Resultado": "-"
+  },
+  {
+    "Deportista": "Kristel Köbrich",
+    "Prueba": "Natación",
+    "Fecha": "-",
+    "Resultado": "-"
+  },
+  {
+    "Deportista": "Esteban Bustos",
+    "Prueba": "Pentatlón moderno",
+    "Fecha": "-",
+    "Resultado": "-"
+  },
+  {
+    "Deportista": "César Abaroa y Eber Sanhueza",
+    "Prueba": "Remo",
+    "Fecha": "-",
+    "Resultado": "-"
+  },
+  {
+    "Deportista": "Josefina Tapia",
+    "Prueba": "Skateboarding",
+    "Fecha": "-",
+    "Resultado": "-"
+  },
+  {
+    "Deportista": "Manuel Selman",
+    "Prueba": "Surf",
+    "Fecha": "-",
+    "Resultado": "-"
+  },
+  {
+    "Deportista": "Fernanda Aguirre",
+    "Prueba": "Taekwondo",
+    "Fecha": "-",
+    "Resultado": "-"
+  },
+  {
+    "Deportista": "Tomás Barrios",
+    "Prueba": "Tenis",
+    "Fecha": "-",
+    "Resultado": "-"
+  },
+  {
+    "Deportista": "Paulina Vega",
+    "Prueba": "Tenis de mesa",
+    "Fecha": "-",
+    "Resultado": "-"
+  },
+  {
+    "Deportista": "Andrés Aguilar",
+    "Prueba": "Tiro con arco masculino",
+    "Fecha": "-",
+    "Resultado": "-"
+  },
+  {
+    "Deportista": "Francisca Crovetto",
+    "Prueba": "Tiro Skeet",
+    "Fecha": "-",
+    "Resultado": "-"
+  },
+  {
+    "Deportista": "Bárbara Riveros",
+    "Prueba": "Triatlón",
+    "Fecha": "-",
+    "Resultado": "-"
+  },
+  {
+    "Deportista": "Diego Moya",
+    "Prueba": "Triatlón",
+    "Fecha": "-",
+    "Resultado": "-"
+  },
+  {
+    "Deportista": "Clemente Seguel",
+    "Prueba": "Vela laser",
+    "Fecha": "-",
+    "Resultado": "-"
+  },
+  {
+    "Deportista": "Esteban y Marco Grimalt",
+    "Prueba": "Vóleibol playa",
+    "Fecha": "-",
+    "Resultado": "-"
+  }
+]

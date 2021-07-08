@@ -1,6 +1,1232 @@
-{
- "País": [ "Afganistán", "Albania", "Alemania", "Andorra", "Angola", "Antigua y Barbuda", "Arabia Saudita", "Argelia", "Argentina", "Armenia", "Aruba", "Australia", "Austria", "Azerbaiyán", "Bahamas", "Bangladés", "Barbados", "Baréin", "Bélgica", "Belice", "Benín", "Bermudas", "Bielorrusia", "Birmania", "Bolivia", "Bosnia y Herzegovina", "Botsuana", "Brasil", "Brunéi", "Bulgaria", "Burkina Faso", "Burundi", "Bután", "Cabo Verde", "Camboya", "Camerún", "Canadá", "Catar", "Chad", "Chile", "China", "China Taipéi", "Chipre", "Colombia", "Comoras", "Corea del Sur", "Costa de Marfil", "Costa Rica", "Croacia", "Cuba", "Dinamarca", "Dominica", "Ecuador", "Egipto", "El Salvador", "Emiratos Árabes Unidos", "Equipo Olímpico de Atletas Refugiados", "Eritrea", "Eslovaquia", "Eslovenia", "España", "Micronesia", "Estados Unidos", "Estonia", "Etiopía", "Filipinas", "Finlandia", "Fiyi", "Francia", "Gabón", "Gambia", "Georgia", "Ghana", "Granada", "Grecia", "Guam", "Guatemala", "Guinea", "Guinea-Bisáu", "Guinea Ecuatorial", "Guyana", "Haití", "Honduras", "Hong Kong", "Hungría", "India", "Indonesia", "Irak", "Irán", "Irlanda", "Islandia", "Islas Caimán", "Islas Cook", "Islas Marshall", "Islas Salomón", "Islas Vírgenes Británicas", "Islas Vírgenes de los Estados Unidos", "Israel", "Italia", "Jamaica", "Japón", "Jordania", "Kazajistán", "Kenia", "Kirguistán", "Kiribati", "Kosovo", "Kuwait", "Laos", "Lesoto", "Letonia", "Líbano", "Liberia", "Libia", "Liechtenstein", "Lituania", "Luxemburgo", "Macedonia del Norte", "Madagascar", "Malasia", "Malaui", "Maldivas", "Malí", "Malta", "Marruecos", "Mauricio", "Mauritania", "México", "Moldavia", "Mónaco", "Mongolia", "Montenegro", "Mozambique", "Namibia", "Nauru", "Nepal", "Nicaragua", "Níger", "Nigeria", "Noruega", "Nueva Zelanda", "Omán", "Países Bajos", "Pakistán", "Palaos", "Palestina", "Panamá", "Papúa Nueva Guinea", "Paraguay", "Perú", "Polonia", "Portugal", "Puerto Rico", "Reino Unido", "República Centroafricana", "República Checa", "República del Congo", "República Democrática del Congo", "República Dominicana", "Ruanda", "Rumania", "Rusia", "Samoa", "Samoa Americana", "San Cristóbal y Nieves", "San Marino", "San Vicente y las Granadinas", "Santa Lucía", "Santo Tomé y Príncipe", "Senegal", "Serbia", "Seychelles", "Sierra Leona", "Siria", "Singapur", "Somalia", "Sri Lanka", "Suazilandia", "Sudáfrica", "Sudán", "Sudán del Sur", "Suecia", "Suiza", "Surinam", "Tailandia", "Tanzania", "Tayikistán", "Trinidad y Tobago", "Togo", "Tonga", "Túnez", "Turkmenistán", "Turquía", "Tuvalu", "Ucrania", "Uganda", "Uruguay", "Uzbekistán", "Vanuatu", "Venezuela", "Vietnam", "Yemen", "Yibuti", "Zambia", "Zimbabue" ],
-"Oro": [ "-", "-", "-", "-", "-", "-", "-", "-", "-", "-", "-", "-", "-", "-", "-", "-", "-", "-", "-", "-", "-", "-", "-", "-", "-", "-", "-", "-", "-", "-", "-", "-", "-", "-", "-", "-", "-", "-", "-", "-", "-", "-", "-", "-", "-", "-", "-", "-", "-", "-", "-", "-", "-", "-", "-", "-", "-", "-", "-", "-", "-", "-", "-", "-", "-", "-", "-", "-", "-", "-", "-", "-", "-", "-", "-", "-", "-", "-", "-", "-", "-", "-", "-", "-", "-", "-", "-", "-", "-", "-", "-", "-", "-", "-", "-", "-", "-", "-", "-", "-", "-", "-", "-", "-", "-", "-", "-", "-", "-", "-", "-", "-", "-", "-", "-", "-", "-", "-", "-", "-", "-", "-", "-", "-", "-", "-", "-", "-", "-", "-", "-", "-", "-", "-", "-", "-", "-", "-", "-", "-", "-", "-", "-", "-", "-", "-", "-", "-", "-", "-", "-", "-", "-", "-", "-", "-", "-", "-", "-", "-", "-", "-", "-", "-", "-", "-", "-", "-", "-", "-", "-", "-", "-", "-", "-", "-", "-", "-", "-", "-", "-", "-", "-", "-", "-", "-", "-", "-", "-", "-", "-", "-", "-", "-", "-", "-", "-", "-", "-", "-", "-", "-", "-", "-", "-" ],
-"Plata": [ "-", "-", "-", "-", "-", "-", "-", "-", "-", "-", "-", "-", "-", "-", "-", "-", "-", "-", "-", "-", "-", "-", "-", "-", "-", "-", "-", "-", "-", "-", "-", "-", "-", "-", "-", "-", "-", "-", "-", "-", "-", "-", "-", "-", "-", "-", "-", "-", "-", "-", "-", "-", "-", "-", "-", "-", "-", "-", "-", "-", "-", "-", "-", "-", "-", "-", "-", "-", "-", "-", "-", "-", "-", "-", "-", "-", "-", "-", "-", "-", "-", "-", "-", "-", "-", "-", "-", "-", "-", "-", "-", "-", "-", "-", "-", "-", "-", "-", "-", "-", "-", "-", "-", "-", "-", "-", "-", "-", "-", "-", "-", "-", "-", "-", "-", "-", "-", "-", "-", "-", "-", "-", "-", "-", "-", "-", "-", "-", "-", "-", "-", "-", "-", "-", "-", "-", "-", "-", "-", "-", "-", "-", "-", "-", "-", "-", "-", "-", "-", "-", "-", "-", "-", "-", "-", "-", "-", "-", "-", "-", "-", "-", "-", "-", "-", "-", "-", "-", "-", "-", "-", "-", "-", "-", "-", "-", "-", "-", "-", "-", "-", "-", "-", "-", "-", "-", "-", "-", "-", "-", "-", "-", "-", "-", "-", "-", "-", "-", "-", "-", "-", "-", "-", "-", "-" ],
-"Bronce": [ "-", "-", "-", "-", "-", "-", "-", "-", "-", "-", "-", "-", "-", "-", "-", "-", "-", "-", "-", "-", "-", "-", "-", "-", "-", "-", "-", "-", "-", "-", "-", "-", "-", "-", "-", "-", "-", "-", "-", "-", "-", "-", "-", "-", "-", "-", "-", "-", "-", "-", "-", "-", "-", "-", "-", "-", "-", "-", "-", "-", "-", "-", "-", "-", "-", "-", "-", "-", "-", "-", "-", "-", "-", "-", "-", "-", "-", "-", "-", "-", "-", "-", "-", "-", "-", "-", "-", "-", "-", "-", "-", "-", "-", "-", "-", "-", "-", "-", "-", "-", "-", "-", "-", "-", "-", "-", "-", "-", "-", "-", "-", "-", "-", "-", "-", "-", "-", "-", "-", "-", "-", "-", "-", "-", "-", "-", "-", "-", "-", "-", "-", "-", "-", "-", "-", "-", "-", "-", "-", "-", "-", "-", "-", "-", "-", "-", "-", "-", "-", "-", "-", "-", "-", "-", "-", "-", "-", "-", "-", "-", "-", "-", "-", "-", "-", "-", "-", "-", "-", "-", "-", "-", "-", "-", "-", "-", "-", "-", "-", "-", "-", "-", "-", "-", "-", "-", "-", "-", "-", "-", "-", "-", "-", "-", "-", "-", "-", "-", "-", "-", "-", "-", "-", "-", "-" ] 
-}
+[
+  {
+    "País": "Afganistán",
+    "Oro": "-",
+    "Plata": "-",
+    "Bronce": "-"
+  },
+  {
+    "País": "Albania",
+    "Oro": "-",
+    "Plata": "-",
+    "Bronce": "-"
+  },
+  {
+    "País": "Alemania",
+    "Oro": "-",
+    "Plata": "-",
+    "Bronce": "-"
+  },
+  {
+    "País": "Andorra",
+    "Oro": "-",
+    "Plata": "-",
+    "Bronce": "-"
+  },
+  {
+    "País": "Angola",
+    "Oro": "-",
+    "Plata": "-",
+    "Bronce": "-"
+  },
+  {
+    "País": "Antigua y Barbuda",
+    "Oro": "-",
+    "Plata": "-",
+    "Bronce": "-"
+  },
+  {
+    "País": "Arabia Saudita",
+    "Oro": "-",
+    "Plata": "-",
+    "Bronce": "-"
+  },
+  {
+    "País": "Argelia",
+    "Oro": "-",
+    "Plata": "-",
+    "Bronce": "-"
+  },
+  {
+    "País": "Argentina",
+    "Oro": "-",
+    "Plata": "-",
+    "Bronce": "-"
+  },
+  {
+    "País": "Armenia",
+    "Oro": "-",
+    "Plata": "-",
+    "Bronce": "-"
+  },
+  {
+    "País": "Aruba",
+    "Oro": "-",
+    "Plata": "-",
+    "Bronce": "-"
+  },
+  {
+    "País": "Australia",
+    "Oro": "-",
+    "Plata": "-",
+    "Bronce": "-"
+  },
+  {
+    "País": "Austria",
+    "Oro": "-",
+    "Plata": "-",
+    "Bronce": "-"
+  },
+  {
+    "País": "Azerbaiyán",
+    "Oro": "-",
+    "Plata": "-",
+    "Bronce": "-"
+  },
+  {
+    "País": "Bahamas",
+    "Oro": "-",
+    "Plata": "-",
+    "Bronce": "-"
+  },
+  {
+    "País": "Bangladés",
+    "Oro": "-",
+    "Plata": "-",
+    "Bronce": "-"
+  },
+  {
+    "País": "Barbados",
+    "Oro": "-",
+    "Plata": "-",
+    "Bronce": "-"
+  },
+  {
+    "País": "Baréin",
+    "Oro": "-",
+    "Plata": "-",
+    "Bronce": "-"
+  },
+  {
+    "País": "Bélgica",
+    "Oro": "-",
+    "Plata": "-",
+    "Bronce": "-"
+  },
+  {
+    "País": "Belice",
+    "Oro": "-",
+    "Plata": "-",
+    "Bronce": "-"
+  },
+  {
+    "País": "Benín",
+    "Oro": "-",
+    "Plata": "-",
+    "Bronce": "-"
+  },
+  {
+    "País": "Bermudas",
+    "Oro": "-",
+    "Plata": "-",
+    "Bronce": "-"
+  },
+  {
+    "País": "Bielorrusia",
+    "Oro": "-",
+    "Plata": "-",
+    "Bronce": "-"
+  },
+  {
+    "País": "Birmania",
+    "Oro": "-",
+    "Plata": "-",
+    "Bronce": "-"
+  },
+  {
+    "País": "Bolivia",
+    "Oro": "-",
+    "Plata": "-",
+    "Bronce": "-"
+  },
+  {
+    "País": "Bosnia y Herzegovina",
+    "Oro": "-",
+    "Plata": "-",
+    "Bronce": "-"
+  },
+  {
+    "País": "Botsuana",
+    "Oro": "-",
+    "Plata": "-",
+    "Bronce": "-"
+  },
+  {
+    "País": "Brasil",
+    "Oro": "-",
+    "Plata": "-",
+    "Bronce": "-"
+  },
+  {
+    "País": "Brunéi",
+    "Oro": "-",
+    "Plata": "-",
+    "Bronce": "-"
+  },
+  {
+    "País": "Bulgaria",
+    "Oro": "-",
+    "Plata": "-",
+    "Bronce": "-"
+  },
+  {
+    "País": "Burkina Faso",
+    "Oro": "-",
+    "Plata": "-",
+    "Bronce": "-"
+  },
+  {
+    "País": "Burundi",
+    "Oro": "-",
+    "Plata": "-",
+    "Bronce": "-"
+  },
+  {
+    "País": "Bután",
+    "Oro": "-",
+    "Plata": "-",
+    "Bronce": "-"
+  },
+  {
+    "País": "Cabo Verde",
+    "Oro": "-",
+    "Plata": "-",
+    "Bronce": "-"
+  },
+  {
+    "País": "Camboya",
+    "Oro": "-",
+    "Plata": "-",
+    "Bronce": "-"
+  },
+  {
+    "País": "Camerún",
+    "Oro": "-",
+    "Plata": "-",
+    "Bronce": "-"
+  },
+  {
+    "País": "Canadá",
+    "Oro": "-",
+    "Plata": "-",
+    "Bronce": "-"
+  },
+  {
+    "País": "Catar",
+    "Oro": "-",
+    "Plata": "-",
+    "Bronce": "-"
+  },
+  {
+    "País": "Chad",
+    "Oro": "-",
+    "Plata": "-",
+    "Bronce": "-"
+  },
+  {
+    "País": "Chile",
+    "Oro": "-",
+    "Plata": "-",
+    "Bronce": "-"
+  },
+  {
+    "País": "China",
+    "Oro": "-",
+    "Plata": "-",
+    "Bronce": "-"
+  },
+  {
+    "País": "China Taipéi",
+    "Oro": "-",
+    "Plata": "-",
+    "Bronce": "-"
+  },
+  {
+    "País": "Chipre",
+    "Oro": "-",
+    "Plata": "-",
+    "Bronce": "-"
+  },
+  {
+    "País": "Colombia",
+    "Oro": "-",
+    "Plata": "-",
+    "Bronce": "-"
+  },
+  {
+    "País": "Comoras",
+    "Oro": "-",
+    "Plata": "-",
+    "Bronce": "-"
+  },
+  {
+    "País": "Corea del Sur",
+    "Oro": "-",
+    "Plata": "-",
+    "Bronce": "-"
+  },
+  {
+    "País": "Costa de Marfil",
+    "Oro": "-",
+    "Plata": "-",
+    "Bronce": "-"
+  },
+  {
+    "País": "Costa Rica",
+    "Oro": "-",
+    "Plata": "-",
+    "Bronce": "-"
+  },
+  {
+    "País": "Croacia",
+    "Oro": "-",
+    "Plata": "-",
+    "Bronce": "-"
+  },
+  {
+    "País": "Cuba",
+    "Oro": "-",
+    "Plata": "-",
+    "Bronce": "-"
+  },
+  {
+    "País": "Dinamarca",
+    "Oro": "-",
+    "Plata": "-",
+    "Bronce": "-"
+  },
+  {
+    "País": "Dominica",
+    "Oro": "-",
+    "Plata": "-",
+    "Bronce": "-"
+  },
+  {
+    "País": "Ecuador",
+    "Oro": "-",
+    "Plata": "-",
+    "Bronce": "-"
+  },
+  {
+    "País": "Egipto",
+    "Oro": "-",
+    "Plata": "-",
+    "Bronce": "-"
+  },
+  {
+    "País": "El Salvador",
+    "Oro": "-",
+    "Plata": "-",
+    "Bronce": "-"
+  },
+  {
+    "País": "Emiratos Árabes Unidos",
+    "Oro": "-",
+    "Plata": "-",
+    "Bronce": "-"
+  },
+  {
+    "País": "Equipo Olímpico de Atletas Refugiados",
+    "Oro": "-",
+    "Plata": "-",
+    "Bronce": "-"
+  },
+  {
+    "País": "Eritrea",
+    "Oro": "-",
+    "Plata": "-",
+    "Bronce": "-"
+  },
+  {
+    "País": "Eslovaquia",
+    "Oro": "-",
+    "Plata": "-",
+    "Bronce": "-"
+  },
+  {
+    "País": "Eslovenia",
+    "Oro": "-",
+    "Plata": "-",
+    "Bronce": "-"
+  },
+  {
+    "País": "España",
+    "Oro": "-",
+    "Plata": "-",
+    "Bronce": "-"
+  },
+  {
+    "País": "Micronesia",
+    "Oro": "-",
+    "Plata": "-",
+    "Bronce": "-"
+  },
+  {
+    "País": "Estados Unidos",
+    "Oro": "-",
+    "Plata": "-",
+    "Bronce": "-"
+  },
+  {
+    "País": "Estonia",
+    "Oro": "-",
+    "Plata": "-",
+    "Bronce": "-"
+  },
+  {
+    "País": "Etiopía",
+    "Oro": "-",
+    "Plata": "-",
+    "Bronce": "-"
+  },
+  {
+    "País": "Filipinas",
+    "Oro": "-",
+    "Plata": "-",
+    "Bronce": "-"
+  },
+  {
+    "País": "Finlandia",
+    "Oro": "-",
+    "Plata": "-",
+    "Bronce": "-"
+  },
+  {
+    "País": "Fiyi",
+    "Oro": "-",
+    "Plata": "-",
+    "Bronce": "-"
+  },
+  {
+    "País": "Francia",
+    "Oro": "-",
+    "Plata": "-",
+    "Bronce": "-"
+  },
+  {
+    "País": "Gabón",
+    "Oro": "-",
+    "Plata": "-",
+    "Bronce": "-"
+  },
+  {
+    "País": "Gambia",
+    "Oro": "-",
+    "Plata": "-",
+    "Bronce": "-"
+  },
+  {
+    "País": "Georgia",
+    "Oro": "-",
+    "Plata": "-",
+    "Bronce": "-"
+  },
+  {
+    "País": "Ghana",
+    "Oro": "-",
+    "Plata": "-",
+    "Bronce": "-"
+  },
+  {
+    "País": "Granada",
+    "Oro": "-",
+    "Plata": "-",
+    "Bronce": "-"
+  },
+  {
+    "País": "Grecia",
+    "Oro": "-",
+    "Plata": "-",
+    "Bronce": "-"
+  },
+  {
+    "País": "Guam",
+    "Oro": "-",
+    "Plata": "-",
+    "Bronce": "-"
+  },
+  {
+    "País": "Guatemala",
+    "Oro": "-",
+    "Plata": "-",
+    "Bronce": "-"
+  },
+  {
+    "País": "Guinea",
+    "Oro": "-",
+    "Plata": "-",
+    "Bronce": "-"
+  },
+  {
+    "País": "Guinea-Bisáu",
+    "Oro": "-",
+    "Plata": "-",
+    "Bronce": "-"
+  },
+  {
+    "País": "Guinea Ecuatorial",
+    "Oro": "-",
+    "Plata": "-",
+    "Bronce": "-"
+  },
+  {
+    "País": "Guyana",
+    "Oro": "-",
+    "Plata": "-",
+    "Bronce": "-"
+  },
+  {
+    "País": "Haití",
+    "Oro": "-",
+    "Plata": "-",
+    "Bronce": "-"
+  },
+  {
+    "País": "Honduras",
+    "Oro": "-",
+    "Plata": "-",
+    "Bronce": "-"
+  },
+  {
+    "País": "Hong Kong",
+    "Oro": "-",
+    "Plata": "-",
+    "Bronce": "-"
+  },
+  {
+    "País": "Hungría",
+    "Oro": "-",
+    "Plata": "-",
+    "Bronce": "-"
+  },
+  {
+    "País": "India",
+    "Oro": "-",
+    "Plata": "-",
+    "Bronce": "-"
+  },
+  {
+    "País": "Indonesia",
+    "Oro": "-",
+    "Plata": "-",
+    "Bronce": "-"
+  },
+  {
+    "País": "Irak",
+    "Oro": "-",
+    "Plata": "-",
+    "Bronce": "-"
+  },
+  {
+    "País": "Irán",
+    "Oro": "-",
+    "Plata": "-",
+    "Bronce": "-"
+  },
+  {
+    "País": "Irlanda",
+    "Oro": "-",
+    "Plata": "-",
+    "Bronce": "-"
+  },
+  {
+    "País": "Islandia",
+    "Oro": "-",
+    "Plata": "-",
+    "Bronce": "-"
+  },
+  {
+    "País": "Islas Caimán",
+    "Oro": "-",
+    "Plata": "-",
+    "Bronce": "-"
+  },
+  {
+    "País": "Islas Cook",
+    "Oro": "-",
+    "Plata": "-",
+    "Bronce": "-"
+  },
+  {
+    "País": "Islas Marshall",
+    "Oro": "-",
+    "Plata": "-",
+    "Bronce": "-"
+  },
+  {
+    "País": "Islas Salomón",
+    "Oro": "-",
+    "Plata": "-",
+    "Bronce": "-"
+  },
+  {
+    "País": "Islas Vírgenes Británicas",
+    "Oro": "-",
+    "Plata": "-",
+    "Bronce": "-"
+  },
+  {
+    "País": "Islas Vírgenes de los Estados Unidos",
+    "Oro": "-",
+    "Plata": "-",
+    "Bronce": "-"
+  },
+  {
+    "País": "Israel",
+    "Oro": "-",
+    "Plata": "-",
+    "Bronce": "-"
+  },
+  {
+    "País": "Italia",
+    "Oro": "-",
+    "Plata": "-",
+    "Bronce": "-"
+  },
+  {
+    "País": "Jamaica",
+    "Oro": "-",
+    "Plata": "-",
+    "Bronce": "-"
+  },
+  {
+    "País": "Japón",
+    "Oro": "-",
+    "Plata": "-",
+    "Bronce": "-"
+  },
+  {
+    "País": "Jordania",
+    "Oro": "-",
+    "Plata": "-",
+    "Bronce": "-"
+  },
+  {
+    "País": "Kazajistán",
+    "Oro": "-",
+    "Plata": "-",
+    "Bronce": "-"
+  },
+  {
+    "País": "Kenia",
+    "Oro": "-",
+    "Plata": "-",
+    "Bronce": "-"
+  },
+  {
+    "País": "Kirguistán",
+    "Oro": "-",
+    "Plata": "-",
+    "Bronce": "-"
+  },
+  {
+    "País": "Kiribati",
+    "Oro": "-",
+    "Plata": "-",
+    "Bronce": "-"
+  },
+  {
+    "País": "Kosovo",
+    "Oro": "-",
+    "Plata": "-",
+    "Bronce": "-"
+  },
+  {
+    "País": "Kuwait",
+    "Oro": "-",
+    "Plata": "-",
+    "Bronce": "-"
+  },
+  {
+    "País": "Laos",
+    "Oro": "-",
+    "Plata": "-",
+    "Bronce": "-"
+  },
+  {
+    "País": "Lesoto",
+    "Oro": "-",
+    "Plata": "-",
+    "Bronce": "-"
+  },
+  {
+    "País": "Letonia",
+    "Oro": "-",
+    "Plata": "-",
+    "Bronce": "-"
+  },
+  {
+    "País": "Líbano",
+    "Oro": "-",
+    "Plata": "-",
+    "Bronce": "-"
+  },
+  {
+    "País": "Liberia",
+    "Oro": "-",
+    "Plata": "-",
+    "Bronce": "-"
+  },
+  {
+    "País": "Libia",
+    "Oro": "-",
+    "Plata": "-",
+    "Bronce": "-"
+  },
+  {
+    "País": "Liechtenstein",
+    "Oro": "-",
+    "Plata": "-",
+    "Bronce": "-"
+  },
+  {
+    "País": "Lituania",
+    "Oro": "-",
+    "Plata": "-",
+    "Bronce": "-"
+  },
+  {
+    "País": "Luxemburgo",
+    "Oro": "-",
+    "Plata": "-",
+    "Bronce": "-"
+  },
+  {
+    "País": "Macedonia del Norte",
+    "Oro": "-",
+    "Plata": "-",
+    "Bronce": "-"
+  },
+  {
+    "País": "Madagascar",
+    "Oro": "-",
+    "Plata": "-",
+    "Bronce": "-"
+  },
+  {
+    "País": "Malasia",
+    "Oro": "-",
+    "Plata": "-",
+    "Bronce": "-"
+  },
+  {
+    "País": "Malaui",
+    "Oro": "-",
+    "Plata": "-",
+    "Bronce": "-"
+  },
+  {
+    "País": "Maldivas",
+    "Oro": "-",
+    "Plata": "-",
+    "Bronce": "-"
+  },
+  {
+    "País": "Malí",
+    "Oro": "-",
+    "Plata": "-",
+    "Bronce": "-"
+  },
+  {
+    "País": "Malta",
+    "Oro": "-",
+    "Plata": "-",
+    "Bronce": "-"
+  },
+  {
+    "País": "Marruecos",
+    "Oro": "-",
+    "Plata": "-",
+    "Bronce": "-"
+  },
+  {
+    "País": "Mauricio",
+    "Oro": "-",
+    "Plata": "-",
+    "Bronce": "-"
+  },
+  {
+    "País": "Mauritania",
+    "Oro": "-",
+    "Plata": "-",
+    "Bronce": "-"
+  },
+  {
+    "País": "México",
+    "Oro": "-",
+    "Plata": "-",
+    "Bronce": "-"
+  },
+  {
+    "País": "Moldavia",
+    "Oro": "-",
+    "Plata": "-",
+    "Bronce": "-"
+  },
+  {
+    "País": "Mónaco",
+    "Oro": "-",
+    "Plata": "-",
+    "Bronce": "-"
+  },
+  {
+    "País": "Mongolia",
+    "Oro": "-",
+    "Plata": "-",
+    "Bronce": "-"
+  },
+  {
+    "País": "Montenegro",
+    "Oro": "-",
+    "Plata": "-",
+    "Bronce": "-"
+  },
+  {
+    "País": "Mozambique",
+    "Oro": "-",
+    "Plata": "-",
+    "Bronce": "-"
+  },
+  {
+    "País": "Namibia",
+    "Oro": "-",
+    "Plata": "-",
+    "Bronce": "-"
+  },
+  {
+    "País": "Nauru",
+    "Oro": "-",
+    "Plata": "-",
+    "Bronce": "-"
+  },
+  {
+    "País": "Nepal",
+    "Oro": "-",
+    "Plata": "-",
+    "Bronce": "-"
+  },
+  {
+    "País": "Nicaragua",
+    "Oro": "-",
+    "Plata": "-",
+    "Bronce": "-"
+  },
+  {
+    "País": "Níger",
+    "Oro": "-",
+    "Plata": "-",
+    "Bronce": "-"
+  },
+  {
+    "País": "Nigeria",
+    "Oro": "-",
+    "Plata": "-",
+    "Bronce": "-"
+  },
+  {
+    "País": "Noruega",
+    "Oro": "-",
+    "Plata": "-",
+    "Bronce": "-"
+  },
+  {
+    "País": "Nueva Zelanda",
+    "Oro": "-",
+    "Plata": "-",
+    "Bronce": "-"
+  },
+  {
+    "País": "Omán",
+    "Oro": "-",
+    "Plata": "-",
+    "Bronce": "-"
+  },
+  {
+    "País": "Países Bajos",
+    "Oro": "-",
+    "Plata": "-",
+    "Bronce": "-"
+  },
+  {
+    "País": "Pakistán",
+    "Oro": "-",
+    "Plata": "-",
+    "Bronce": "-"
+  },
+  {
+    "País": "Palaos",
+    "Oro": "-",
+    "Plata": "-",
+    "Bronce": "-"
+  },
+  {
+    "País": "Palestina",
+    "Oro": "-",
+    "Plata": "-",
+    "Bronce": "-"
+  },
+  {
+    "País": "Panamá",
+    "Oro": "-",
+    "Plata": "-",
+    "Bronce": "-"
+  },
+  {
+    "País": "Papúa Nueva Guinea",
+    "Oro": "-",
+    "Plata": "-",
+    "Bronce": "-"
+  },
+  {
+    "País": "Paraguay",
+    "Oro": "-",
+    "Plata": "-",
+    "Bronce": "-"
+  },
+  {
+    "País": "Perú",
+    "Oro": "-",
+    "Plata": "-",
+    "Bronce": "-"
+  },
+  {
+    "País": "Polonia",
+    "Oro": "-",
+    "Plata": "-",
+    "Bronce": "-"
+  },
+  {
+    "País": "Portugal",
+    "Oro": "-",
+    "Plata": "-",
+    "Bronce": "-"
+  },
+  {
+    "País": "Puerto Rico",
+    "Oro": "-",
+    "Plata": "-",
+    "Bronce": "-"
+  },
+  {
+    "País": "Reino Unido",
+    "Oro": "-",
+    "Plata": "-",
+    "Bronce": "-"
+  },
+  {
+    "País": "República Centroafricana",
+    "Oro": "-",
+    "Plata": "-",
+    "Bronce": "-"
+  },
+  {
+    "País": "República Checa",
+    "Oro": "-",
+    "Plata": "-",
+    "Bronce": "-"
+  },
+  {
+    "País": "República del Congo",
+    "Oro": "-",
+    "Plata": "-",
+    "Bronce": "-"
+  },
+  {
+    "País": "República Democrática del Congo",
+    "Oro": "-",
+    "Plata": "-",
+    "Bronce": "-"
+  },
+  {
+    "País": "República Dominicana",
+    "Oro": "-",
+    "Plata": "-",
+    "Bronce": "-"
+  },
+  {
+    "País": "Ruanda",
+    "Oro": "-",
+    "Plata": "-",
+    "Bronce": "-"
+  },
+  {
+    "País": "Rumania",
+    "Oro": "-",
+    "Plata": "-",
+    "Bronce": "-"
+  },
+  {
+    "País": "Rusia",
+    "Oro": "-",
+    "Plata": "-",
+    "Bronce": "-"
+  },
+  {
+    "País": "Samoa",
+    "Oro": "-",
+    "Plata": "-",
+    "Bronce": "-"
+  },
+  {
+    "País": "Samoa Americana",
+    "Oro": "-",
+    "Plata": "-",
+    "Bronce": "-"
+  },
+  {
+    "País": "San Cristóbal y Nieves",
+    "Oro": "-",
+    "Plata": "-",
+    "Bronce": "-"
+  },
+  {
+    "País": "San Marino",
+    "Oro": "-",
+    "Plata": "-",
+    "Bronce": "-"
+  },
+  {
+    "País": "San Vicente y las Granadinas",
+    "Oro": "-",
+    "Plata": "-",
+    "Bronce": "-"
+  },
+  {
+    "País": "Santa Lucía",
+    "Oro": "-",
+    "Plata": "-",
+    "Bronce": "-"
+  },
+  {
+    "País": "Santo Tomé y Príncipe",
+    "Oro": "-",
+    "Plata": "-",
+    "Bronce": "-"
+  },
+  {
+    "País": "Senegal",
+    "Oro": "-",
+    "Plata": "-",
+    "Bronce": "-"
+  },
+  {
+    "País": "Serbia",
+    "Oro": "-",
+    "Plata": "-",
+    "Bronce": "-"
+  },
+  {
+    "País": "Seychelles",
+    "Oro": "-",
+    "Plata": "-",
+    "Bronce": "-"
+  },
+  {
+    "País": "Sierra Leona",
+    "Oro": "-",
+    "Plata": "-",
+    "Bronce": "-"
+  },
+  {
+    "País": "Siria",
+    "Oro": "-",
+    "Plata": "-",
+    "Bronce": "-"
+  },
+  {
+    "País": "Singapur",
+    "Oro": "-",
+    "Plata": "-",
+    "Bronce": "-"
+  },
+  {
+    "País": "Somalia",
+    "Oro": "-",
+    "Plata": "-",
+    "Bronce": "-"
+  },
+  {
+    "País": "Sri Lanka",
+    "Oro": "-",
+    "Plata": "-",
+    "Bronce": "-"
+  },
+  {
+    "País": "Suazilandia",
+    "Oro": "-",
+    "Plata": "-",
+    "Bronce": "-"
+  },
+  {
+    "País": "Sudáfrica",
+    "Oro": "-",
+    "Plata": "-",
+    "Bronce": "-"
+  },
+  {
+    "País": "Sudán",
+    "Oro": "-",
+    "Plata": "-",
+    "Bronce": "-"
+  },
+  {
+    "País": "Sudán del Sur",
+    "Oro": "-",
+    "Plata": "-",
+    "Bronce": "-"
+  },
+  {
+    "País": "Suecia",
+    "Oro": "-",
+    "Plata": "-",
+    "Bronce": "-"
+  },
+  {
+    "País": "Suiza",
+    "Oro": "-",
+    "Plata": "-",
+    "Bronce": "-"
+  },
+  {
+    "País": "Surinam",
+    "Oro": "-",
+    "Plata": "-",
+    "Bronce": "-"
+  },
+  {
+    "País": "Tailandia",
+    "Oro": "-",
+    "Plata": "-",
+    "Bronce": "-"
+  },
+  {
+    "País": "Tanzania",
+    "Oro": "-",
+    "Plata": "-",
+    "Bronce": "-"
+  },
+  {
+    "País": "Tayikistán",
+    "Oro": "-",
+    "Plata": "-",
+    "Bronce": "-"
+  },
+  {
+    "País": "Trinidad y Tobago",
+    "Oro": "-",
+    "Plata": "-",
+    "Bronce": "-"
+  },
+  {
+    "País": "Togo",
+    "Oro": "-",
+    "Plata": "-",
+    "Bronce": "-"
+  },
+  {
+    "País": "Tonga",
+    "Oro": "-",
+    "Plata": "-",
+    "Bronce": "-"
+  },
+  {
+    "País": "Túnez",
+    "Oro": "-",
+    "Plata": "-",
+    "Bronce": "-"
+  },
+  {
+    "País": "Turkmenistán",
+    "Oro": "-",
+    "Plata": "-",
+    "Bronce": "-"
+  },
+  {
+    "País": "Turquía",
+    "Oro": "-",
+    "Plata": "-",
+    "Bronce": "-"
+  },
+  {
+    "País": "Tuvalu",
+    "Oro": "-",
+    "Plata": "-",
+    "Bronce": "-"
+  },
+  {
+    "País": "Ucrania",
+    "Oro": "-",
+    "Plata": "-",
+    "Bronce": "-"
+  },
+  {
+    "País": "Uganda",
+    "Oro": "-",
+    "Plata": "-",
+    "Bronce": "-"
+  },
+  {
+    "País": "Uruguay",
+    "Oro": "-",
+    "Plata": "-",
+    "Bronce": "-"
+  },
+  {
+    "País": "Uzbekistán",
+    "Oro": "-",
+    "Plata": "-",
+    "Bronce": "-"
+  },
+  {
+    "País": "Vanuatu",
+    "Oro": "-",
+    "Plata": "-",
+    "Bronce": "-"
+  },
+  {
+    "País": "Venezuela",
+    "Oro": "-",
+    "Plata": "-",
+    "Bronce": "-"
+  },
+  {
+    "País": "Vietnam",
+    "Oro": "-",
+    "Plata": "-",
+    "Bronce": "-"
+  },
+  {
+    "País": "Yemen",
+    "Oro": "-",
+    "Plata": "-",
+    "Bronce": "-"
+  },
+  {
+    "País": "Yibuti",
+    "Oro": "-",
+    "Plata": "-",
+    "Bronce": "-"
+  },
+  {
+    "País": "Zambia",
+    "Oro": "-",
+    "Plata": "-",
+    "Bronce": "-"
+  },
+  {
+    "País": "Zimbabue",
+    "Oro": "-",
+    "Plata": "-",
+    "Bronce": "-"
+  }
+]
