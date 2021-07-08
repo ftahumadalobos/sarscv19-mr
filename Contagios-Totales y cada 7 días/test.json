@@ -1,1 +1,14 @@
-[["a","b","c"],[1,2,3]]
+[
+  {
+    "word": "cat",
+    "frequency": 12
+  },
+  {
+    "word": "dog",
+    "frequency": 32
+  },
+  {
+    "word": "mouse",
+    "frequency": 18
+  }
+]
