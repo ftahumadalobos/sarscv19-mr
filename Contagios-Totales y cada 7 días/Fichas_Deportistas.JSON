@@ -5,7 +5,8 @@
     "Edad": 24,
     "Proveniencia": "Santiago.",
     "Descripción": "El BMX se hará presente por primera vez en los JJOO y Macarena Pérez también hará su debut. Cuenta con sólidas presentaciones internacionales, incluyendo un segundo puesto en el Mundial UCI BMX.",
-    "img": "macarenaperez"
+    "img": "macarenaperez",
+    "icono": "bmx"
   },
   {
     "Deportista": "Karen Roco",
@@ -13,7 +14,8 @@
     "Edad": 34,
     "Proveniencia": "Constitución, Maule.",
     "Descripción": "Oriunda de la región del Maule. Medalla de plata en los panamericanos pasados y bronce en el último mundial de canotaje que tuvo lugar en Barnaul, Rusia. Debutará en juegos olímpicos, haciendo historia junto a Maillard, al ser la primera pareja de canoístas del país en participar en los JJOO.",
-    "img": "karenroco"
+    "img": "karenroco",
+    "icono": "canotaje"
   },
   {
     "Deportista": "María José Mailliard",
@@ -21,7 +23,8 @@
     "Edad": 30,
     "Proveniencia": "Quintero, Valparaíso.",
     "Descripción": "Una de las debutantes olímpicas y grandes exponentes del canotaje en los últimos años. En su carrera ha obtenido múltiples podios mundiales, donde destaca su último oro en la Copa del Mundo en Barlau, Rusia.",
-    "img": "mariajosemaillard"
+    "img": "mariajosemaillard",
+    "icono": "canotaje"
   },
   {
     "Deportista": "Catalina Soto",
@@ -29,7 +32,8 @@
     "Edad": 20,
     "Proveniencia": "Santiago.",
     "Descripción": "La joven deportista obtuvo el mejor desempeño entre las chilenas en la prueba Durango-Durango, lo que le valió su primera clasificación a unos Juegos Olímpicos.",
-    "img": "catalinasoto"
+    "img": "catalinasoto",
+    "icono": "ciclismoruta"
   },
   {
     "Deportista": "Samuel Parot",
@@ -37,7 +41,8 @@
     "Edad": 56,
     "Proveniencia": "San Clemente, Maule.",
     "Descripción": "Junto a su caballo Dubai, serán quienes representen a Chile en la prueba de salto. Estos serán los segundos juegos para Samuel, quien ya compitió en Londres 2012.",
-    "img": "samuelparot"
+    "img": "samuelparot",
+    "icono": "ecuestre_salto"
   },
   {
     "Deportista": "Virginia Yarur",
@@ -45,7 +50,8 @@
     "Edad": 54,
     "Proveniencia": "Santiago.",
     "Descripción": "Virginia será la primera mujer en representar a Chile en el evento ecuestre de los Juegos Olímpicos. Competirá en la prueba de adiestramiento, donde ya representó a nuestro país en los últimos Juegos Panamericanos.",
-    "img": "virginiayarur"
+    "img": "virginiayarur",
+    "icono": "ecuestre_equitacion"
   },
   {
     "Deportista": "Katina Proestakis",
@@ -53,7 +59,8 @@
     "Edad": 19,
     "Proveniencia": "Antofagasta.",
     "Descripción": "Katina clasificó a sus primeros Juegos Olímpicos, luego de su participación en el Preolímpico de Costa Rica. Chile volverá a estar en esgrima, disciplina que no tuvo competidores de nuestro país en la edición pasada.",
-    "img": "katinaproestakis"
+    "img": "katinaproestakis",
+    "icono": "esgrima"
   },
   {
     "Deportista": "Christiane Endler",
@@ -61,7 +68,8 @@
     "Edad": 29,
     "Proveniencia": "Santiago.",
     "Descripción": "Arquera y capitana de la selección. Nueva jugadora del Olympique de Lyon, club al que llegó luego de ser campeona de Francia con el PSG.",
-    "img": "christianeendler"
+    "img": "christianeendler",
+    "icono": "futbol"
   },
   {
     "Deportista": "Natalia Campos",
@@ -69,7 +77,8 @@
     "Edad": 29,
     "Proveniencia": "Santiago.",
     "Descripción": "Arquera de la Universidad de Chile, integró la selección mundialista del 2019 y la formación ideal de la Copa Libertadores 2020.",
-    "img": "nataliacampos"
+    "img": "nataliacampos",
+    "icono": "futbol"
   },
   {
     "Deportista": "Antonia Canales",
@@ -77,7 +86,8 @@
     "Edad": 18,
     "Proveniencia": "Santiago.",
     "Descripción": "La más joven de las arqueras de Chile, actualmente jugadora de Universidad Católica.",
-    "img": "antoniacan les"
+    "img": "antoniacan les",
+    "icono": "futbol"
   },
   {
     "Deportista": "Carla Guerrero",
@@ -85,7 +95,8 @@
     "Edad": 33,
     "Proveniencia": "Temuco, Araucanía.",
     "Descripción": "Defensa y veterana de la selección. Integró junto a Endler el once ideal sudamericano de la década, elaborado por la IFFHS.",
-    "img": "carlaguerrero"
+    "img": "carlaguerrero",
+    "icono": "futbol"
   },
   {
     "Deportista": "Camila Sáez",
@@ -93,7 +104,8 @@
     "Edad": 26,
     "Proveniencia": "El Melón, Valparaíso.",
     "Descripción": "Defensa del club Rayo Vallecano, previamente, jugó en Colo Colo dónde ganó la Copa Libertadores en 2012.",
-    "img": "camilasaez"
+    "img": "camilasaez",
+    "icono": "futbol"
   },
   {
     "Deportista": "Fernanda Ramírez",
@@ -101,7 +113,8 @@
     "Edad": 28,
     "Proveniencia": "Santiago.",
     "Descripción": "Jugadora de la Universidad de Chile, este año vio su debut con la selección frente a Eslovaquia.",
-    "img": "fernandaramirez"
+    "img": "fernandaramirez",
+    "icono": "futbol"
   },
   {
     "Deportista": "Daniela Pardo",
@@ -109,7 +122,8 @@
     "Edad": 33,
     "Proveniencia": "Santiago.",
     "Descripción": "Volante de la selección chilena y jugadora de Santiago Morning, donde ha sido campeona de la liga nacional.",
-    "img": "danielapardo"
+    "img": "danielapardo",
+    "icono": "futbol"
   },
   {
     "Deportista": "Javiera Toro",
@@ -117,7 +131,8 @@
     "Edad": 23,
     "Proveniencia": "Tocopilla, Antofagasta.",
     "Descripción": "Lateral izquierda de la selección, formó parte del equipo mundialista el 2019. Actualmente, forma parte del Sevilla FC, de la Primera División de España.",
-    "img": "javieratoro"
+    "img": "javieratoro",
+    "icono": "futbol"
   },
   {
     "Deportista": "Valentina Díaz",
@@ -125,7 +140,8 @@
     "Edad": 20,
     "Proveniencia": "Santiago.",
     "Descripción": "Lateral de la selección y Colo Colo, formó parte del once ideal sub-20 de  la década en Sudamérica.",
-    "img": "valentinadiaz"
+    "img": "valentinadiaz",
+    "icono": "futbol"
   },
   {
     "Deportista": "Francisca Lara",
@@ -133,7 +149,8 @@
     "Edad": 30,
     "Proveniencia": "San Fernando, O'Higgins.",
     "Descripción": "Volante de la selección y el Le Havre de Francia. Es actualmente la goleadora histórica de la selección.",
-    "img": "franciscalara"
+    "img": "franciscalara",
+    "icono": "futbol"
   },
   {
     "Deportista": "Karen Araya",
@@ -141,7 +158,8 @@
     "Edad": 30,
     "Proveniencia": "Santiago.",
     "Descripción": "Volante de trayectoria, actualmente juega en Santiago Morning. Formó parte de la escuadra colocolina que ganó la Libertadores en 2012.",
-    "img": "karenaraya"
+    "img": "karenaraya",
+    "icono": "futbol"
   },
   {
     "Deportista": "Yessenia López",
@@ -149,7 +167,8 @@
     "Edad": 30,
     "Proveniencia": "Viña del Mar, Valparaíso.",
     "Descripción": "Mediocampista con más de 30 encuentros por la selección, actualmente es jugadora de la Universidad de Chile.",
-    "img": "yessenialopez"
+    "img": "yessenialopez",
+    "icono": "futbol"
   },
   {
     "Deportista": "Yastin Jiménez",
@@ -157,7 +176,8 @@
     "Edad": 20,
     "Proveniencia": "Santiago.",
     "Descripción": "De las más jóvenes de la escuadra nacional. Es mediocampista y juega por Colo Colo.",
-    "img": "yastinjimenez"
+    "img": "yastinjimenez",
+    "icono": "futbol"
   },
   {
     "Deportista": "Nayadet López",
@@ -165,7 +185,8 @@
     "Edad": 26,
     "Proveniencia": "Manises, España.",
     "Descripción": "Nacida en España, juega como mediocampista y su equipo es el Santa Teresa de la Primera División de España.",
-    "img": "nayadetlopez"
+    "img": "nayadetlopez",
+    "icono": "futbol"
   },
   {
     "Deportista": "Francisca Mardones",
@@ -173,7 +194,8 @@
     "Edad": 32,
     "Proveniencia": "Santiago.",
     "Descripción": "De las de mayor experiencia en la roja, mediocampista de Santiago Morning, dónde ha logrado el campeonato nacional en tres ocasiones.",
-    "img": "franciscamardones"
+    "img": "franciscamardones",
+    "icono": "futbol"
   },
   {
     "Deportista": "Yanara Aedo",
@@ -181,7 +203,8 @@
     "Edad": 27,
     "Proveniencia": "Temuco, Araucanía.",
     "Descripción": "Delantera de extensa trayectoria internacional, fue campeona de la Libertadores con Colo Colo y parte de la selección mundialista. Actualmente es jugadora del Rayo Vallecano.",
-    "img": "yanaraaedo"
+    "img": "yanaraaedo",
+    "icono": "futbol"
   },
   {
     "Deportista": "Yenny Acuña",
@@ -189,7 +212,8 @@
     "Edad": 24,
     "Proveniencia": "Iquique, Tarapacá.",
     "Descripción": "Delantera oriunda de Iquique, el 2020 llegó a Santiago Morning donde ganó el campeonato nacional.",
-    "img": "yennyacuna"
+    "img": "yennyacuna",
+    "icono": "futbol"
   },
   {
     "Deportista": "María José Urrutia",
@@ -197,7 +221,8 @@
     "Edad": 23,
     "Proveniencia": "Santiago.",
     "Descripción": "Delantera de Colo Colo, el 2019 se convirtió en la primera y  única jugadora chilena en marca un gol en un mundial.",
-    "img": "mariajoseurrutia"
+    "img": "mariajoseurrutia",
+    "icono": "futbol"
   },
   {
     "Deportista": "Fernanda Pinilla",
@@ -205,7 +230,8 @@
     "Edad": 27,
     "Proveniencia": "Santiago.",
     "Descripción": "Jugadora polivalente de la selección chilena y de la Universidad de Chile. Fue campeona nacional 2016 con los azules, y jugó dos años en España.",
-    "img": "fernandapinilla"
+    "img": "fernandapinilla",
+    "icono": "futbol"
   },
   {
     "Deportista": "Daniela Zamora",
@@ -213,7 +239,8 @@
     "Edad": 30,
     "Proveniencia": "Viña del Mar, Valparaíso.",
     "Descripción": "Delantera del Djurgardens de Suecia, fue parte de la selección mundialista de 2019.",
-    "img": "danielazamora"
+    "img": "danielazamora",
+    "icono": "futbol"
   },
   {
     "Deportista": "Rosario Balmaceda",
@@ -221,7 +248,8 @@
     "Edad": 22,
     "Proveniencia": "Santiago.",
     "Descripción": "Joven delantera con experiencia mundialista, se desempeña en el equipo nacional Santiago Morning.",
-    "img": "rosariobalmaceda"
+    "img": "rosariobalmaceda",
+    "icono": "futbol"
   },
   {
     "Deportista": "Javiera Grez",
@@ -229,7 +257,8 @@
     "Edad": 21,
     "Proveniencia": "Lontué, Maule.",
     "Descripción": "Oriunda del Maule, debutó con Curicó Unido y fue parte de la roja mundialista.",
-    "img": "javieragrez"
+    "img": "javieragrez",
+    "icono": "futbol"
   },
   {
     "Deportista": "Simona Castro",
@@ -237,7 +266,8 @@
     "Edad": 32,
     "Proveniencia": "Santiago.",
     "Descripción": "Simona Castro se prepara para su tercera participación olímpica, donde figura un 28° lugar en el All-Around de Río 2016.",
-    "img": "simonacastro"
+    "img": "simonacastro",
+    "icono": "gimnasia"
   },
   {
     "Deportista": "Tomás González",
@@ -245,7 +275,8 @@
     "Edad": 35,
     "Proveniencia": "Santiago.",
     "Descripción": "Serán los terceros juegos olímpicos para Tomás González. Rozó el podio el 2012 en suelo y salto. Este año, uno de los rivales a vencer es el local Kochei Uchimura, medallista en las últimas 3 ediciones.",
-    "img": "tomasgonzalez"
+    "img": "tomasgonzalez",
+    "icono": "gimnasia"
   },
   {
     "Deportista": "Joaquín Niemann",
@@ -253,7 +284,8 @@
     "Edad": 22,
     "Proveniencia": "Santiago.",
     "Descripción": "Niemann fue el primer chileno en ganar un torneo PGA, circuito en el que es top 25. Serán los primeros juegos para el chileno, una prueba donde también estarán campeones de majors como Jon Rahm y Rory Mcllroy.",
-    "img": "joaquinniemann"
+    "img": "joaquinniemann",
+    "icono": "golf"
   },
   {
     "Deportista": "Guillermo Pereira",
@@ -261,7 +293,8 @@
     "Edad": 26,
     "Proveniencia": "Santiago.",
     "Descripción": "El campeón del BMW Charity ProAm, consolidó su ascenso al circuito PGA, la principal competencia de golf en el mundo, además de asegurar su primera participación en JJOO.",
-    "img": "guillermopereira"
+    "img": "guillermopereira",
+    "icono": "golf"
   },
   {
     "Deportista": "María Fernada Valdés",
@@ -269,7 +302,8 @@
     "Edad": 29,
     "Proveniencia": "Coquimbo.",
     "Descripción": "Esta será la tercera participación olímpica para María Fernanda. Ya estuvo en Londres y Río, acabando en noveno y séptimo puesto respectivamente.",
-    "img": "mariafernandavaldes"
+    "img": "mariafernandavaldes",
+    "icono": "halterofilia"
   },
   {
     "Deportista": "Arley Méndez",
@@ -277,7 +311,8 @@
     "Edad": 27,
     "Proveniencia": "San Cristóbal, Cuba.",
     "Descripción": "Arley clasificó a sus primeros Juegos Olímpicos. Por lesión no pudo representar a Chile en los Panamericanos de Lima 2019, aunque bajo el brazo ya tiene 2 campeonatos mundiales obtenidos en 2017 y 2018, en la categoría de 85 y 89 kilos respectivamnete.",
-    "img": "arlreymendez"
+    "img": "arlreymendez",
+    "icono": "halterofilia"
   },
   {
     "Deportista": "Mary Dee Vargas",
@@ -285,7 +320,8 @@
     "Edad": 24,
     "Proveniencia": "Santiago.",
     "Descripción": "Campeona panamericana este año en Guadalajara, Mary Dee hizo historia al ser la primera judoca chilena en clasificar a unos Juegos Olímpicos.",
-    "img": "marydeevargas"
+    "img": "marydeevargas",
+    "icono": "judo"
   },
   {
     "Deportista": "Karen Gallardo",
@@ -293,7 +329,8 @@
     "Edad": 37,
     "Proveniencia": "Copiapo, Atacama.",
     "Descripción": "Karen Gallardo clasificó a sus terceros Juegos Olímpicos consecutivos. En su última competencia, el Sudamericano de Gauyaquil, logró un segundo lugar.",
-    "img": "karengallardo"
+    "img": "karengallardo",
+    "icono": "atletismo"
   },
   {
     "Deportista": "Gabriel Kehr",
@@ -301,7 +338,8 @@
     "Edad": 24,
     "Proveniencia": "Temuco, Araucanía.",
     "Descripción": "Gabriel Kehr, oriundo de Temuco, debutará en Tokio. Bajo el brazo, ostenta medalla de oro en los Juegos Panamericanos pasados.",
-    "img": "gabrielkehr"
+    "img": "gabrielkehr",
+    "icono": "atletismo"
   },
   {
     "Deportista": "Humberto Mancilla",
@@ -309,7 +347,8 @@
     "Edad": 25,
     "Proveniencia": "Temuco, Araucanía.",
     "Descripción": "Humberto Mansilla, fue el segundo chileno en clasificarse a Tokio 2021, en la disciplina de lanzamiento de martillo. Fue medalla de plata en los Panamericanos de Lima 2019, además, ostenta el récord nacional.",
-    "img": "humbertomansilla"
+    "img": "humbertomansilla",
+    "icono": "atletismo"
   },
   {
     "Deportista": "Yasmani Acosta",
@@ -317,7 +356,8 @@
     "Edad": 32,
     "Proveniencia": "Matanzas, Cuba.",
     "Descripción": "Yasmani se prepara para sus primeros Juegos Olímpicos. Medallas de bronce en Lima 2019 y de oro en los Panamericanos de Lucha 2020, están entre los últimos grandes logros del representante de Chile en la lucha.",
-    "img": "yasmaniacosta"
+    "img": "yasmaniacosta",
+    "icono": "luchagrecoromana"
   },
   {
     "Deportista": "Martín Vidaurre",
@@ -325,7 +365,8 @@
     "Edad": 21,
     "Proveniencia": "Santiago.",
     "Descripción": "En el 2019 Martín Vidaurre se transformó en el primer deportista de mountain bike nacional en clasificar a unos juegos olímpicos. Entre sus logros están el bronce en los panamericanos pasados y  una plata en la Copa del Mundo sub-23 en Les Gets, con solo 21 años de edad y todo un futuro por delante, Tokio 2021 será su gran prueba.",
-    "img": "martinvidaurre"
+    "img": "martinvidaurre",
+    "icono": "ciclismomontana"
   },
   {
     "Deportista": "Eduardo Cisternas",
@@ -333,7 +374,8 @@
     "Edad": 17,
     "Proveniencia": "Santiago.",
     "Descripción": "El más joven de la delegación chilena, es dueño de 3 récords nacionales en natación. Se le verá en la prueba de 400 metros libres, donde destacan las ausencias de los dos últimos campeones.",
-    "img": "eduardocisternas"
+    "img": "eduardocisternas",
+    "icono": "natacion"
   },
   {
     "Deportista": "Kristel Köbrich",
@@ -341,7 +383,8 @@
     "Edad": 35,
     "Proveniencia": "Santiago.",
     "Descripción": "Kristel Köbrich es la nadadora que más triunfos le ha dado a Chile, cuenta con múltiples medallas en panamericanos, destacando su oro en Guadalajara 2011. En citas olímpicas su mejor lugar fue 14° en Londres 2012 en los 800 metros.",
-    "img": "kristelkobrich"
+    "img": "kristelkobrich",
+    "icono": "natacion"
   },
   {
     "Deportista": "Esteban Bustos",
@@ -349,7 +392,8 @@
     "Edad": 28,
     "Proveniencia": "Santiago.",
     "Descripción": "Segunda cita olímpica para Esteban, quien llega con una medalla de plata bajo el brazo, obtenida en los panamericanos de Lima.",
-    "img": "estebanbustos"
+    "img": "estebanbustos",
+    "icono": "pentatlon"
   },
   {
     "Deportista": "César Abaroa",
@@ -357,7 +401,8 @@
     "Edad": 24,
     "Proveniencia": "San Pedro de la Paz, Biobío.",
     "Descripción": "En Lucerna, se llevó a cabo el preolímpico y Copa del Mundo de remo, que definió a César y Eber como los representantes de Chile en la prueba de remo corto. Así, el representande del Biobío consigue sus primeros boletos olímpicos.",
-    "img": "cesarabaroa"
+    "img": "cesarabaroa",
+    "icono": "remo"
   },
   {
     "Deportista": "Eber Sanhueza",
@@ -365,7 +410,8 @@
     "Edad": 23,
     "Proveniencia": "Puerto Montt, Los Lagos.",
     "Descripción": "Oriundo de Puerto Montt, Eber Sanhueza disputará sus primeros juegos. El duo conformado con César Abaroa ya ganó el bronce en los panamericanos pasados.",
-    "img": "ebersanhueza"
+    "img": "ebersanhueza",
+    "icono": "remo"
   },
   {
     "Deportista": "Josefina Tapia",
@@ -373,7 +419,8 @@
     "Edad": 19,
     "Proveniencia": "Zapallar, Valparaíso.",
     "Descripción": "Por primera vez el skate estará en el certamen olímpico, Josefina Tapia, se encargará de ser la debutante nacional en esta disciplina.",
-    "img": "josefinatapia"
+    "img": "josefinatapia",
+    "icono": "skateboarding"
   },
   {
     "Deportista": "Manuel Selman",
@@ -381,7 +428,8 @@
     "Edad": 32,
     "Proveniencia": "Viña del Mar, Valparaíso.",
     "Descripción": "El surf es parte de las nuevas competencias olímpicas que se estrenan en Tokio. Manuel, luego de un noveno puesto en el Campeonato Mundial de Surf en El Salvador, será el encargado de representar a Chile.",
-    "img": "manuelselman"
+    "img": "manuelselman",
+    "icono": "surf"
   },
   {
     "Deportista": "Fernanda Aguirre",
@@ -389,7 +437,8 @@
     "Edad": 23,
     "Proveniencia": "Viña del Mar, Valparaíso.",
     "Descripción": "La oportunidad de Chile en el Taekwondo está en Fernanda: estudiante universitaria, medallista en Lima 2019 y con podios en campeonatos mundiales.",
-    "img": "fernandaaguirre"
+    "img": "fernandaaguirre",
+    "icono": "taekwondo"
   },
   {
     "Deportista": "Tomás Barrios",
@@ -397,7 +446,8 @@
     "Edad": 23,
     "Proveniencia": "Chillán, Ñuble.",
     "Descripción": "Después de 10 años, el tenis chileno vuelve a estar representado en la cita olímpica de la mano de Tomás Barrios, clasificado por su plata en Lima 2019. Luego de la baja de Cristián Garín, Tomás será el único representante de Chile en el tenis.",
-    "img": "tomasbarrios"
+    "img": "tomasbarrios",
+    "icono": "tenis"
   },
   {
     "Deportista": "Paulina Vega",
@@ -405,7 +455,8 @@
     "Edad": 37,
     "Proveniencia": "Concepción, Biobío.",
     "Descripción": "Oriunda de Concepción, Paulina Vega, debutó en los JJOO de Atenas 2004 cuando compitió en dobles. Este 2021, la tenismesista nacional competirá en individuales.",
-    "img": "paulinavega"
+    "img": "paulinavega",
+    "icono": "tenis_mesa"
   },
   {
     "Deportista": "Andrés Aguilar",
@@ -413,7 +464,8 @@
     "Edad": 24,
     "Proveniencia": "Santiago.",
     "Descripción": "Este año, Andrés Aguilar se hizo con el cupo para disputar sus primeros JJOO, luego de quedar en segundo puesto en el Panamericano de Monterrey.",
-    "img": "andresaguilar"
+    "img": "andresaguilar",
+    "icono": "tiro_arco"
   },
   {
     "Deportista": "Francisca Crovetto",
@@ -421,7 +473,8 @@
     "Edad": 31,
     "Proveniencia": "Santiago.",
     "Descripción": "La experimentada tiradora enfrentará sus terceros juegos consecutivos. Octavo puesto en Londres 2012, ha sido su mejor participación olímpica, a eso se suman las preseas de plata en la Copa del Mundo de Abu Dhabi y Lima 2019.",
-    "img": "franciscacrovetto"
+    "img": "franciscacrovetto",
+    "icono": "tiro_skeet"
   },
   {
     "Deportista": "Bárbara Riveros",
@@ -429,7 +482,8 @@
     "Edad": 33,
     "Proveniencia": "Santiago.",
     "Descripción": "En Río 2016, Bárbara finalizó en el quinto lugar, el mejor puesto en la historia del triatlón chileno. La deportista demuestra su alto nivel, al clasificar a su cuarta cita olímpica consecutiva.",
-    "img": "barbarariveros"
+    "img": "barbarariveros",
+    "icono": "triatlon"
   },
   {
     "Deportista": "Diego Moya",
@@ -437,7 +491,8 @@
     "Edad": 22,
     "Proveniencia": "Santiago.",
     "Descripción": "Diego se une a Bárbara Riveros como representantes de Chile en triatlón. Desde Londres 2012, que no había dos clasificados para la prueba. Tokio 2021 será su debut olímpico.",
-    "img": "diegomoya"
+    "img": "diegomoya",
+    "icono": "triatlon"
   },
   {
     "Deportista": "Clemente Seguel",
@@ -445,7 +500,8 @@
     "Edad": 21,
     "Proveniencia": "Algarrobo, Valparaíso.",
     "Descripción": "El evento de vela verá el debut olímpico del joven campeón chileno, Clemente Seguel. Durante la pandemia pudo seguir compitiendo, donde destaca un segundo lugar en la Regata Abierta de Holanda.",
-    "img": "clementeseguel"
+    "img": "clementeseguel",
+    "icono": "vela_laser"
   },
   {
     "Deportista": "Esteban Grimalt",
@@ -453,7 +509,8 @@
     "Edad": 30,
     "Proveniencia": "Linares, Maule.",
     "Descripción": "Segunda cita olímpica para el oriundo de Linares. En conjunto con su primo, Marco Grimalt, llegaron a los octavos de final en el torneo de Ostrava que les dio el pase a Tokio 2021.",
-    "img": "estebangrimalt"
+    "img": "estebangrimalt",
+    "icono": "voleibol_playa"
   },
   {
     "Deportista": "Marco Grimalt",
@@ -461,6 +518,7 @@
     "Edad": 32,
     "Proveniencia": "Queilén, Los Lagos.",
     "Descripción": "Oriundo de la isla grande de Chiloé, participará en sus segundos juegos, en conjunto con su primo Esteban Grimalt. El duo ya ganó la medalla de oro en los panamericanos pasados.",
-    "img": "marcogrimalt"
+    "img": "marcogrimalt",
+    "icono": "voleibol_playa"
   }
 ]
