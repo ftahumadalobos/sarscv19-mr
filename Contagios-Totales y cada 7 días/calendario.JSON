@@ -1,206 +1,265 @@
 [
   {
-    "Deportista": "Macarena Pérez",
-    "Prueba": "BMX",
-    "Fecha": "-",
-    "Resultado": "-"
-  },
-  {
-    "Deportista": "Karen Roco",
-    "Prueba": "Canotaje",
-    "Fecha": "-",
-    "Resultado": "-"
-  },
-  {
-    "Deportista": "María José Maillard",
-    "Prueba": "Canotaje",
-    "Fecha": "-",
-    "Resultado": "-"
-  },
-  {
-    "Deportista": "Catalina Soto",
-    "Prueba": "Ciclismo ruta",
-    "Fecha": "-",
-    "Resultado": "-"
-  },
-  {
-    "Deportista": "Cupo por definir",
-    "Prueba": "Equitación",
-    "Fecha": "-",
-    "Resultado": "-"
-  },
-  {
-    "Deportista": "Virginia Yarur",
-    "Prueba": "Equitación",
-    "Fecha": "-",
-    "Resultado": "-"
-  },
-  {
-    "Deportista": "Katina Proestakis",
-    "Prueba": "Esgrima",
-    "Fecha": "-",
-    "Resultado": "-"
-  },
-  {
     "Deportista": "Selección Chilena Femenina",
-    "Prueba": "Fútbol",
-    "Fecha": "-",
+    "Prueba": "Chile vs Gran Bretaña",
+    "Fecha": "21/07/2021 03:30",
     "Resultado": "-"
   },
   {
-    "Deportista": "Simona Castro",
-    "Prueba": "Gimnasia",
-    "Fecha": "-",
+    "Deportista": "Andrés Aguilar",
+    "Prueba": "Tiro con arco",
+    "Fecha": "23/07/2021 00:00",
     "Resultado": "-"
   },
   {
-    "Deportista": "Joaquín Niemann",
-    "Prueba": "Golf",
-    "Fecha": "-",
-    "Resultado": "-"
-  },
-  {
-    "Deportista": "Guillermo Pereira",
-    "Prueba": "Golf",
-    "Fecha": "-",
-    "Resultado": "-"
-  },
-  {
-    "Deportista": "María Fernada Valdés",
-    "Prueba": "Halterofilia",
-    "Fecha": "-",
-    "Resultado": "-"
-  },
-  {
-    "Deportista": "Arley Méndez",
-    "Prueba": "Halterofilia",
-    "Fecha": "-",
-    "Resultado": "-"
-  },
-  {
-    "Deportista": "Mary Dee Vargas",
-    "Prueba": "Judo",
-    "Fecha": "-",
-    "Resultado": "-"
-  },
-  {
-    "Deportista": "Karen Gallardo",
-    "Prueba": "Lanzamiento de disco",
-    "Fecha": "-",
-    "Resultado": "-"
-  },
-  {
-    "Deportista": "Gabriel Kehr",
-    "Prueba": "Lanzamiento de martillo",
-    "Fecha": "-",
-    "Resultado": "-"
-  },
-  {
-    "Deportista": "Humberto Mancilla",
-    "Prueba": "Lanzamiento de martillo",
-    "Fecha": "-",
-    "Resultado": "-"
-  },
-  {
-    "Deportista": "Yasmani Acosta",
-    "Prueba": "Lucha grecorromana",
-    "Fecha": "-",
-    "Resultado": "-"
-  },
-  {
-    "Deportista": "Martín Vidaurre",
-    "Prueba": "Mountainbike",
-    "Fecha": "-",
-    "Resultado": "-"
-  },
-  {
-    "Deportista": "Eduardo Cisternas",
-    "Prueba": "Natación",
-    "Fecha": "-",
-    "Resultado": "-"
-  },
-  {
-    "Deportista": "Kristel Köbrich",
-    "Prueba": "Natación",
-    "Fecha": "-",
-    "Resultado": "-"
-  },
-  {
-    "Deportista": "Esteban Bustos",
-    "Prueba": "Pentatlón moderno",
-    "Fecha": "-",
-    "Resultado": "-"
-  },
-  {
-    "Deportista": "César Abaroa y Eber Sanhueza",
-    "Prueba": "Remo",
-    "Fecha": "-",
-    "Resultado": "-"
-  },
-  {
-    "Deportista": "Josefina Tapia",
-    "Prueba": "Skateboarding",
-    "Fecha": "-",
-    "Resultado": "-"
-  },
-  {
-    "Deportista": "Manuel Selman",
-    "Prueba": "Surf",
-    "Fecha": "-",
-    "Resultado": "-"
-  },
-  {
-    "Deportista": "Fernanda Aguirre",
-    "Prueba": "Taekwondo",
-    "Fecha": "-",
-    "Resultado": "-"
-  },
-  {
-    "Deportista": "Tomás Barrios",
-    "Prueba": "Tenis",
-    "Fecha": "-",
+    "Deportista": "E. Sanhueza y C. Abaroa",
+    "Prueba": "Remo LM2x",
+    "Fecha": "23/07/2021 19:30",
     "Resultado": "-"
   },
   {
     "Deportista": "Paulina Vega",
     "Prueba": "Tenis de mesa",
-    "Fecha": "-",
+    "Fecha": "23/07/2021 20:00",
     "Resultado": "-"
   },
   {
-    "Deportista": "Andrés Aguilar",
-    "Prueba": "Tiro con arco masculino",
-    "Fecha": "-",
+    "Deportista": "Tomás González",
+    "Prueba": "Gimnasia All Around",
+    "Fecha": "23/07/2021 21:00",
+    "Resultado": "-"
+  },
+  {
+    "Deportista": "Mary Dee Vargas",
+    "Prueba": "Judo 48 kilos",
+    "Fecha": "23/07/2021 22:00",
+    "Resultado": "-"
+  },
+  {
+    "Deportista": "Tomás Barrios",
+    "Prueba": "Tenis",
+    "Fecha": "24/07/2021 00:00",
+    "Resultado": "-"
+  },
+  {
+    "Deportista": "Selección Chilena Femenina",
+    "Prueba": "Chile vs Canadá",
+    "Fecha": "24/07/2021 03:30",
+    "Resultado": "-"
+  },
+  {
+    "Deportista": "Virginia Yarur",
+    "Prueba": "Ecuestre adiestramiento",
+    "Fecha": "24/07/2021 04:00",
+    "Resultado": "-"
+  },
+  {
+    "Deportista": "Eduardo Cisternas",
+    "Prueba": "Natación 400m libres",
+    "Fecha": "24/07/2021 18:00",
+    "Resultado": "-"
+  },
+  {
+    "Deportista": "Manuel Selman",
+    "Prueba": "Surf R1 y R2",
+    "Fecha": "24/07/2021 18:00",
+    "Resultado": "-"
+  },
+  {
+    "Deportista": "E. Sanhueza y C. Abaroa",
+    "Prueba": "Remo LM2x",
+    "Fecha": "24/07/2021 20:00",
     "Resultado": "-"
   },
   {
     "Deportista": "Francisca Crovetto",
     "Prueba": "Tiro Skeet",
-    "Fecha": "-",
+    "Fecha": "24/07/2021 20:00",
     "Resultado": "-"
   },
   {
-    "Deportista": "Bárbara Riveros",
-    "Prueba": "Triatlón",
-    "Fecha": "-",
+    "Deportista": "Katrina Proestakis",
+    "Prueba": "Esgrima florete",
+    "Fecha": "24/07/2021 20:30",
+    "Resultado": "-"
+  },
+  {
+    "Deportista": "Simona Castro",
+    "Prueba": "Gimnasia All Around",
+    "Fecha": "24/07/2021 21:00",
+    "Resultado": "-"
+  },
+  {
+    "Deportista": "M. Grimalt y E. Grimalt",
+    "Prueba": "V. Playa: Chile vs Brasil",
+    "Fecha": "24/07/2021 22:00",
+    "Resultado": "-"
+  },
+  {
+    "Deportista": "Clemente Seguel",
+    "Prueba": "Vela Láser",
+    "Fecha": "24/07/2021 23:00",
+    "Resultado": "-"
+  },
+  {
+    "Deportista": "Catalina Soto",
+    "Prueba": "Ciclismo ruta",
+    "Fecha": "25/07/2021 00:00",
+    "Resultado": "-"
+  },
+  {
+    "Deportista": "Virginia Yarur",
+    "Prueba": "Ecuestre adiestramiento",
+    "Fecha": "25/07/2021 04:00",
     "Resultado": "-"
   },
   {
     "Deportista": "Diego Moya",
     "Prueba": "Triatlón",
-    "Fecha": "-",
+    "Fecha": "25/07/2021 17:30",
     "Resultado": "-"
   },
   {
     "Deportista": "Clemente Seguel",
-    "Prueba": "Vela laser",
-    "Fecha": "-",
+    "Prueba": "Vela Láser",
+    "Fecha": "25/07/2021 23:00",
     "Resultado": "-"
   },
   {
-    "Deportista": "Esteban y Marco Grimalt",
-    "Prueba": "Vóleibol playa",
-    "Fecha": "-",
+    "Deportista": "Martín Vidaurre",
+    "Prueba": "Ciclismo mountainbike",
+    "Fecha": "26/07/2021 02:00",
+    "Resultado": "-"
+  },
+  {
+    "Deportista": "Kristel Köbrich",
+    "Prueba": "Natación 1.500m libres",
+    "Fecha": "26/07/2021 06:00",
+    "Resultado": "-"
+  },
+  {
+    "Deportista": "Bárbara Riveros",
+    "Prueba": "Triatlón",
+    "Fecha": "26/07/2021 17:30",
+    "Resultado": "-"
+  },
+  {
+    "Deportista": "M. Grimalt y E. Grimalt",
+    "Prueba": "V. Playa: Chile vs Polonia",
+    "Fecha": "27/07/2021 04:00",
+    "Resultado": "-"
+  },
+  {
+    "Deportista": "Selección Chilena Femenina",
+    "Prueba": "Chile vs Japón",
+    "Fecha": "27/07/2021 07:00",
+    "Resultado": "-"
+  },
+  {
+    "Deportista": "Virginia Yarur",
+    "Prueba": "Ecuestre adiestramiento",
+    "Fecha": "28/07/2021 04:30",
+    "Resultado": "-"
+  },
+  {
+    "Deportista": "J. Niemann y M. Pereira",
+    "Prueba": "Golf Ronda 1",
+    "Fecha": "28/07/2021 18:30",
+    "Resultado": "-"
+  },
+  {
+    "Deportista": "Kristel Köbrich",
+    "Prueba": "Natación 800m libres",
+    "Fecha": "29/07/2021 06:00",
+    "Resultado": "-"
+  },
+  {
+    "Deportista": "J. Niemann y M. Pereira",
+    "Prueba": "Golf Ronda 2",
+    "Fecha": "29/07/2021 18:30",
+    "Resultado": "-"
+  },
+  {
+    "Deportista": "M. Grimalt y E. Grimalt",
+    "Prueba": "V. Playa: Chile vs Marruecos",
+    "Fecha": "29/07/2021 22:00",
+    "Resultado": "-"
+  },
+  {
+    "Deportista": "J. Niemann y M. Pereira",
+    "Prueba": "Gold Ronda 3",
+    "Fecha": "30/07/2021 18:30",
+    "Resultado": "-"
+  },
+  {
+    "Deportista": "Karen Gallardo",
+    "Prueba": "Lanzamiento disco",
+    "Fecha": "30/07/2021 20:30",
+    "Resultado": "-"
+  },
+  {
+    "Deportista": "Macarena Pérez",
+    "Prueba": "BMX freestyle",
+    "Fecha": "30/07/2021 21:00",
+    "Resultado": "-"
+  },
+  {
+    "Deportista": "Arley Méndez",
+    "Prueba": "Halterofilia 81 kilos",
+    "Fecha": "31/07/2021 02:50",
+    "Resultado": "-"
+  },
+  {
+    "Deportista": "J. Niemann y M. Pereira",
+    "Prueba": "Golf Ronda final",
+    "Resultado": "-"
+  },
+  {
+    "Deportista": "Yasmani Acosta",
+    "Prueba": "Lucha grecorromana 130 k",
+    "Fecha": "31/07/2021 22:00",
+    "Resultado": "-"
+  },
+  {
+    "Deportista": "G. Kehr y H. Mansilla",
+    "Prueba": "Lanzamiento martillo",
+    "Fecha": "01/08/2021 20:00",
+    "Resultado": "-"
+  },
+  {
+    "Deportista": "M. Fernanda Valdés",
+    "Prueba": "Halterofilia 87 kilos",
+    "Fecha": "02/08/2021 02:00",
+    "Resultado": "-"
+  },
+  {
+    "Deportista": "Samuel Parot",
+    "Prueba": "Ecuestre salto",
+    "Fecha": "03/08/2021 08:00",
+    "Resultado": "-"
+  },
+  {
+    "Deportista": "Josefina Tapia",
+    "Prueba": "Skateboarding park",
+    "Fecha": "03/08/2021 20:00",
+    "Resultado": "-"
+  },
+  {
+    "Deportista": "María José Mailliard",
+    "Prueba": "Canotaje C1 200m",
+    "Fecha": "03/08/2021 20:30",
+    "Resultado": "-"
+  },
+  {
+    "Deportista": "Esteban Bustos",
+    "Prueba": "Pentatlón moderno",
+    "Fecha": "05/08/2021 00:00",
+    "Resultado": "-"
+  },
+  {
+    "Deportista": "M. Mailliard y K. Roco",
+    "Prueba": "Canotaje C2 500m",
+    "Fecha": "05/08/2021 20:30",
     "Resultado": "-"
   }
 ]
