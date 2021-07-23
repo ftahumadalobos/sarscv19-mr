@@ -8,7 +8,7 @@
     "img": "macarenaperez",
     "icono": "bmx",
     "ig": "macapgrasset",
-    "lesionado": "false"
+    "lesionado": false
   },
   {
     "Deportista": "Karen Roco",
@@ -19,7 +19,7 @@
     "img": "karenroco",
     "icono": "canotaje",
     "ig": "karen_roco",
-    "lesionado": "false"
+    "lesionado": false
   },
   {
     "Deportista": "María José Mailliard",
@@ -30,7 +30,7 @@
     "img": "mariajosemaillard",
     "icono": "canotaje",
     "ig": "cotemailliard",
-    "lesionado": "false"
+    "lesionado": false
   },
   {
     "Deportista": "Catalina Soto",
@@ -41,7 +41,7 @@
     "img": "catalinasoto",
     "icono": "ciclismoruta",
     "ig": "ctxstx",
-    "lesionado": "false"
+    "lesionado": false
   },
   {
     "Deportista": "Samuel Parot",
@@ -52,7 +52,7 @@
     "img": "samuelparot",
     "icono": "ecuestre_salto",
     "ig": "samuelparot",
-    "lesionado": "false"
+    "lesionado": false
   },
   {
     "Deportista": "Virginia Yarur",
@@ -63,7 +63,7 @@
     "img": "virginiayarur",
     "icono": "ecuestre_equitacion",
     "ig": "virginiayarurdressage",
-    "lesionado": "false"
+    "lesionado": false
   },
   {
     "Deportista": "Katina Proestakis",
@@ -74,7 +74,7 @@
     "img": "katinaproestakis",
     "icono": "esgrima",
     "ig": "k.proestakis",
-    "lesionado": "false"
+    "lesionado": false
   },
   {
     "Deportista": "Christiane Endler",
@@ -85,7 +85,7 @@
     "img": "christianeendler",
     "icono": "futbol",
     "ig": "tianeendler",
-    "lesionado": "false"
+    "lesionado": false
   },
   {
     "Deportista": "Natalia Campos",
@@ -96,7 +96,7 @@
     "img": "nataliacampos",
     "icono": "futbol",
     "ig": "natiicamposs",
-    "lesionado": "false"
+    "lesionado": false
   },
   {
     "Deportista": "Antonia Canales",
@@ -107,7 +107,7 @@
     "img": "antoniacanales",
     "icono": "futbol",
     "ig": "anto_canalesp",
-    "lesionado": "false"
+    "lesionado": false
   },
   {
     "Deportista": "Carla Guerrero",
@@ -118,7 +118,7 @@
     "img": "carlaguerrero",
     "icono": "futbol",
     "ig": "carlaguerrero3",
-    "lesionado": "false"
+    "lesionado": false
   },
   {
     "Deportista": "Camila Sáez",
@@ -129,7 +129,7 @@
     "img": "camilasaez",
     "icono": "futbol",
     "ig": "kmilasaez",
-    "lesionado": "false"
+    "lesionado": false
   },
   {
     "Deportista": "Fernanda Ramírez",
@@ -140,7 +140,7 @@
     "img": "fernandaramirez",
     "icono": "futbol",
     "ig": "fenharam",
-    "lesionado": "false"
+    "lesionado": false
   },
   {
     "Deportista": "Daniela Pardo",
@@ -151,7 +151,7 @@
     "img": "danielapardo",
     "icono": "futbol",
     "ig": "danitapardito",
-    "lesionado": "false"
+    "lesionado": false
   },
   {
     "Deportista": "Javiera Toro",
@@ -162,7 +162,7 @@
     "img": "javieratoro",
     "icono": "futbol",
     "ig": "chavitoro_20",
-    "lesionado": "false"
+    "lesionado": false
   },
   {
     "Deportista": "Valentina Díaz",
@@ -173,7 +173,7 @@
     "img": "valentinadiaz",
     "icono": "futbol",
     "ig": "valediaztp",
-    "lesionado": "false"
+    "lesionado": false
   },
   {
     "Deportista": "Francisca Lara",
@@ -184,7 +184,7 @@
     "img": "franciscalara",
     "icono": "futbol",
     "ig": "pancha_lara",
-    "lesionado": "false"
+    "lesionado": false
   },
   {
     "Deportista": "Karen Araya",
@@ -195,7 +195,7 @@
     "img": "karenaraya",
     "icono": "futbol",
     "ig": "karenaraya8",
-    "lesionado": "false"
+    "lesionado": false
   },
   {
     "Deportista": "Yessenia López",
@@ -206,7 +206,7 @@
     "img": "yessenialopez",
     "icono": "futbol",
     "ig": "paaloma.lopez",
-    "lesionado": "false"
+    "lesionado": false
   },
   {
     "Deportista": "Yastin Jiménez",
@@ -217,7 +217,7 @@
     "img": "yastinjimenez",
     "icono": "futbol",
     "ig": "_.jimeneeez_",
-    "lesionado": "false"
+    "lesionado": false
   },
   {
     "Deportista": "Nayadet López",
@@ -228,7 +228,7 @@
     "img": "nayadetlopez",
     "icono": "futbol",
     "ig": "nayadetlopezopazo",
-    "lesionado": "false"
+    "lesionado": false
   },
   {
     "Deportista": "Francisca Mardones",
@@ -239,7 +239,7 @@
     "img": "mariafranciscamardones",
     "icono": "futbol",
     "ig": "pancha.mardones",
-    "lesionado": "false"
+    "lesionado": false
   },
   {
     "Deportista": "Yanara Aedo",
@@ -250,7 +250,7 @@
     "img": "yanaraaedo",
     "icono": "futbol",
     "ig": "yanaraedo",
-    "lesionado": "false"
+    "lesionado": false
   },
   {
     "Deportista": "Yenny Acuña",
@@ -261,7 +261,7 @@
     "img": "yennyacuna",
     "icono": "futbol",
     "ig": "yennyacuna9",
-    "lesionado": "false"
+    "lesionado": false
   },
   {
     "Deportista": "María José Urrutia",
@@ -272,7 +272,7 @@
     "img": "mariajoseurrutia",
     "icono": "futbol",
     "ig": "coteurrutia9",
-    "lesionado": "false"
+    "lesionado": false
   },
   {
     "Deportista": "Fernanda Pinilla",
@@ -283,7 +283,7 @@
     "img": "fernandapinilla",
     "icono": "futbol",
     "ig": "fdapinilla",
-    "lesionado": "false"
+    "lesionado": false
   },
   {
     "Deportista": "Daniela Zamora",
@@ -294,7 +294,7 @@
     "img": "danielazamora",
     "icono": "futbol",
     "ig": "danizamora90",
-    "lesionado": "false"
+    "lesionado": false
   },
   {
     "Deportista": "Rosario Balmaceda",
@@ -305,7 +305,7 @@
     "img": "rosariobalmaceda",
     "icono": "futbol",
     "ig": "rosario_balma",
-    "lesionado": "false"
+    "lesionado": false
   },
   {
     "Deportista": "Javiera Grez",
@@ -316,7 +316,7 @@
     "img": "javieragrez",
     "icono": "futbol",
     "ig": "grez_valenzuela10",
-    "lesionado": "false"
+    "lesionado": false
   },
   {
     "Deportista": "Simona Castro",
@@ -327,7 +327,7 @@
     "img": "simonacastro",
     "icono": "gimnasia",
     "ig": "monaolimpica",
-    "lesionado": "false"
+    "lesionado": false
   },
   {
     "Deportista": "Tomás González",
@@ -338,7 +338,7 @@
     "img": "tomasgonzalez",
     "icono": "gimnasia",
     "ig": "tomasgonzalez1",
-    "lesionado": "false"
+    "lesionado": false
   },
   {
     "Deportista": "Joaquín Niemann",
@@ -349,7 +349,7 @@
     "img": "joaquinniemann",
     "icono": "golf",
     "ig": "joaco_niemann",
-    "lesionado": "false"
+    "lesionado": false
   },
   {
     "Deportista": "Guillermo Pereira",
@@ -360,7 +360,7 @@
     "img": "guillermopereira",
     "icono": "golf",
     "ig": "mito_pereira",
-    "lesionado": "false"
+    "lesionado": false
   },
   {
     "Deportista": "María Fernada Valdés",
@@ -371,7 +371,7 @@
     "img": "mariafernandavaldes",
     "icono": "halterofilia",
     "ig": "fernandavaldesparis",
-    "lesionado": "true"
+    "lesionado": true
   },
   {
     "Deportista": "Arley Méndez",
@@ -382,7 +382,7 @@
     "img": "arlreymendez",
     "icono": "halterofilia",
     "ig": "arley_chileaful",
-    "lesionado": "false"
+    "lesionado": false
   },
   {
     "Deportista": "Mary Dee Vargas",
@@ -393,7 +393,7 @@
     "img": "marydeevargas",
     "icono": "judo",
     "ig": "marydeevargas_judo",
-    "lesionado": "false"
+    "lesionado": false
   },
   {
     "Deportista": "Karen Gallardo",
@@ -404,7 +404,7 @@
     "img": "karengallardo",
     "icono": "atletismo",
     "ig": "karengpchile",
-    "lesionado": "false"
+    "lesionado": false
   },
   {
     "Deportista": "Gabriel Kehr",
@@ -415,7 +415,7 @@
     "img": "gabrielkehr",
     "icono": "atletismo",
     "ig": "gabrielkehr",
-    "lesionado": "false"
+    "lesionado": false
   },
   {
     "Deportista": "Humberto Mansilla",
@@ -426,7 +426,7 @@
     "img": "humbertomansilla",
     "icono": "atletismo",
     "ig": "beethrow",
-    "lesionado": "false"
+    "lesionado": false
   },
   {
     "Deportista": "Yasmani Acosta",
@@ -437,7 +437,7 @@
     "img": "yasmaniacosta",
     "icono": "luchagrecoromana",
     "ig": "yasmani_acosta",
-    "lesionado": "false"
+    "lesionado": false
   },
   {
     "Deportista": "Martín Vidaurre",
@@ -448,7 +448,7 @@
     "img": "martinvidaurre",
     "icono": "ciclismomontana",
     "ig": "martin_vidaurre",
-    "lesionado": "false"
+    "lesionado": false
   },
   {
     "Deportista": "Eduardo Cisternas",
@@ -459,7 +459,7 @@
     "img": "eduardocisternas",
     "icono": "natacion",
     "ig": "educisternas_",
-    "lesionado": "false"
+    "lesionado": false
   },
   {
     "Deportista": "Kristel Köbrich",
@@ -470,7 +470,7 @@
     "img": "kristelkobrich",
     "icono": "natacion",
     "ig": "kristelkobrich",
-    "lesionado": "false"
+    "lesionado": false
   },
   {
     "Deportista": "Esteban Bustos",
@@ -481,7 +481,7 @@
     "img": "estebanbustos",
     "icono": "pentatlon",
     "ig": "estebanbustoschi",
-    "lesionado": "false"
+    "lesionado": false
   },
   {
     "Deportista": "César Abaroa",
@@ -492,7 +492,7 @@
     "img": "cesarabaroa",
     "icono": "remo",
     "ig": "cesarabaroap",
-    "lesionado": "false"
+    "lesionado": false
   },
   {
     "Deportista": "Eber Sanhueza",
@@ -503,7 +503,7 @@
     "img": "ebersanhueza",
     "icono": "remo",
     "ig": "eber_sanhueza",
-    "lesionado": "false"
+    "lesionado": false
   },
   {
     "Deportista": "Josefina Tapia",
@@ -514,7 +514,7 @@
     "img": "josefinatapia",
     "icono": "skateboarding",
     "ig": "jose.tapiav",
-    "lesionado": "false"
+    "lesionado": false
   },
   {
     "Deportista": "Manuel Selman",
@@ -525,7 +525,7 @@
     "img": "manuelselman",
     "icono": "surf",
     "ig": "manuelselman",
-    "lesionado": "false"
+    "lesionado": false
   },
   {
     "Deportista": "Fernanda Aguirre",
@@ -536,7 +536,7 @@
     "img": "fernandaaguirre",
     "icono": "taekwondo",
     "ig": "aguirrefernanda_",
-    "lesionado": "true"
+    "lesionado": true
   },
   {
     "Deportista": "Tomás Barrios",
@@ -547,7 +547,7 @@
     "img": "tomasbarrios",
     "icono": "tenis",
     "ig": "tomasbarriosv",
-    "lesionado": "false"
+    "lesionado": false
   },
   {
     "Deportista": "Paulina Vega",
@@ -558,7 +558,7 @@
     "img": "paulinavega",
     "icono": "tenis_mesa",
     "ig": "paucita13",
-    "lesionado": "false"
+    "lesionado": false
   },
   {
     "Deportista": "Andrés Aguilar",
@@ -569,7 +569,7 @@
     "img": "andresaguilar",
     "icono": "tiro_arco",
     "ig": "andres.archery",
-    "lesionado": "false"
+    "lesionado": false
   },
   {
     "Deportista": "Francisca Crovetto",
@@ -580,7 +580,7 @@
     "img": "franciscacrovetto",
     "icono": "tiro_skeet",
     "ig": "fran.crovetto",
-    "lesionado": "false"
+    "lesionado": false
   },
   {
     "Deportista": "Bárbara Riveros",
@@ -591,7 +591,7 @@
     "img": "barbarariveros",
     "icono": "triatlon",
     "ig": "bcriveros",
-    "lesionado": "false"
+    "lesionado": false
   },
   {
     "Deportista": "Diego Moya",
@@ -602,7 +602,7 @@
     "img": "diegomoya",
     "icono": "triatlon",
     "ig": "dieg0_moya",
-    "lesionado": "false"
+    "lesionado": false
   },
   {
     "Deportista": "Clemente Seguel",
@@ -613,7 +613,7 @@
     "img": "clementeseguel",
     "icono": "vela_laser",
     "ig": "clemente_seguel",
-    "lesionado": "false"
+    "lesionado": false
   },
   {
     "Deportista": "Esteban Grimalt",
@@ -624,7 +624,7 @@
     "img": "estebangrimalt",
     "icono": "voleibol_playa",
     "ig": "estebangrimaltf",
-    "lesionado": "false"
+    "lesionado": false
   },
   {
     "Deportista": "Marco Grimalt",
@@ -635,6 +635,6 @@
     "img": "marcogrimalt",
     "icono": "voleibol_playa",
     "ig": "marcogrimalt",
-    "lesionado": "false"
+    "lesionado": false
   }
 ]
