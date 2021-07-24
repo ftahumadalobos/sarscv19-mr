@@ -3,61 +3,55 @@
     "Deportista": "Selección Chilena Femenina",
     "Prueba": "Chile vs Gran Bretaña",
     "Fecha": "21/07/2021 03:30",
-    "Resultado": "0-2"
+    "Resultado": "Derrota 2-0"
   },
   {
     "Deportista": "Andrés Aguilar",
     "Prueba": "Tiro con arco",
     "Fecha": "23/07/2021 00:00",
-    "Resultado": "-"
+    "Resultado": "18°"
   },
   {
     "Deportista": "E. Sanhueza y C. Abaroa",
     "Prueba": "Remo LM2x",
     "Fecha": "23/07/2021 19:30",
-    "Resultado": "-"
+    "Resultado": "5°"
   },
   {
     "Deportista": "Paulina Vega",
     "Prueba": "Tenis de mesa",
     "Fecha": "23/07/2021 20:00",
-    "Resultado": "-"
+    "Resultado": "Triunfo 4-0"
   },
   {
     "Deportista": "Tomás González",
     "Prueba": "Gimnasia All Around",
     "Fecha": "23/07/2021 21:00",
-    "Resultado": "-"
+    "Resultado": "43°"
   },
   {
     "Deportista": "Mary Dee Vargas",
     "Prueba": "Judo 48 kilos",
     "Fecha": "23/07/2021 22:00",
-    "Resultado": "-"
+    "Resultado": "Triunfo"
   },
   {
     "Deportista": "Tomás Barrios",
     "Prueba": "Tenis R1: Barrios vs Chardy",
     "Fecha": "23/07/2021 22:00",
-    "Resultado": "-"
+    "Resultado": "Derrota: 6-1/7-6"
   },
   {
     "Deportista": "Selección Chilena Femenina",
     "Prueba": "Chile vs Canadá",
     "Fecha": "24/07/2021 03:30",
-    "Resultado": "-"
-  },
-  {
-    "Deportista": "Virginia Yarur",
-    "Prueba": "Ecuestre adiestramiento",
-    "Fecha": "24/07/2021 04:00",
-    "Resultado": "-"
+    "Resultado": "Derrota 2-1"
   },
   {
     "Deportista": "Eduardo Cisternas",
     "Prueba": "Natación 400m libres",
-    "Fecha": "24/07/2021 18:00",
-    "Resultado": "-"
+    "Fecha": "24/07/2021 08:00",
+    "Resultado": "1° de serie"
   },
   {
     "Deportista": "Manuel Selman",
@@ -111,6 +105,12 @@
     "Deportista": "Virginia Yarur",
     "Prueba": "Ecuestre adiestramiento",
     "Fecha": "25/07/2021 04:00",
+    "Resultado": "-"
+  },
+  {
+    "Deportista": "Virginia Yarur",
+    "Prueba": "Ecuestre adiestramiento",
+    "Fecha": "25/07/2021 07:30",
     "Resultado": "-"
   },
   {
@@ -210,11 +210,6 @@
     "Resultado": "-"
   },
   {
-    "Deportista": "J. Niemann y M. Pereira",
-    "Prueba": "Golf Ronda final",
-    "Resultado": "-"
-  },
-  {
     "Deportista": "Yasmani Acosta",
     "Prueba": "Lucha grecorromana 130 k",
     "Fecha": "31/07/2021 22:00",
@@ -254,6 +249,11 @@
     "Deportista": "M. Mailliard y K. Roco",
     "Prueba": "Canotaje C2 500m",
     "Fecha": "05/08/2021 20:30",
+    "Resultado": "-"
+  },
+  {
+    "Deportista": "J. Niemann y M. Pereira",
+    "Prueba": "Golf Ronda final",
     "Resultado": "-"
   }
 ]
