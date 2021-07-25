@@ -1,292 +1,5 @@
 [
   {
-    "Pais": "Afganistán",
-    "bandera": "afganistan",
-    "Oro": 0,
-    "Plata": 0,
-    "Bronce": 0
-  },
-  {
-    "Pais": "Albania",
-    "bandera": "albania",
-    "Oro": 0,
-    "Plata": 0,
-    "Bronce": 0
-  },
-  {
-    "Pais": "Alemania",
-    "bandera": "alemania",
-    "Oro": 0,
-    "Plata": 0,
-    "Bronce": 0
-  },
-  {
-    "Pais": "Andorra",
-    "bandera": "andorra",
-    "Oro": 0,
-    "Plata": 0,
-    "Bronce": 0
-  },
-  {
-    "Pais": "Angola",
-    "bandera": "angola",
-    "Oro": 0,
-    "Plata": 0,
-    "Bronce": 0
-  },
-  {
-    "Pais": "Antigua y Barbuda",
-    "bandera": "antiguaybarbuda",
-    "Oro": 0,
-    "Plata": 0,
-    "Bronce": 0
-  },
-  {
-    "Pais": "Arabia Saudita",
-    "bandera": "arabiasaudita",
-    "Oro": 0,
-    "Plata": 0,
-    "Bronce": 0
-  },
-  {
-    "Pais": "Argelia",
-    "bandera": "argelia",
-    "Oro": 0,
-    "Plata": 0,
-    "Bronce": 0
-  },
-  {
-    "Pais": "Argentina",
-    "bandera": "argentina",
-    "Oro": 0,
-    "Plata": 0,
-    "Bronce": 0
-  },
-  {
-    "Pais": "Armenia",
-    "bandera": "armenia",
-    "Oro": 0,
-    "Plata": 0,
-    "Bronce": 0
-  },
-  {
-    "Pais": "Aruba",
-    "bandera": "aruba",
-    "Oro": 0,
-    "Plata": 0,
-    "Bronce": 0
-  },
-  {
-    "Pais": "Australia",
-    "bandera": "australia",
-    "Oro": 1,
-    "Plata": 1,
-    "Bronce": 1
-  },
-  {
-    "Pais": "Austria",
-    "bandera": "austria",
-    "Oro": 0,
-    "Plata": 0,
-    "Bronce": 0
-  },
-  {
-    "Pais": "Atletas Refugiados",
-    "bandera": "atletasrefugiados",
-    "Oro": 0,
-    "Plata": 0,
-    "Bronce": 0
-  },
-  {
-    "Pais": "Azerbaiyán",
-    "bandera": "azerbaiyan",
-    "Oro": 0,
-    "Plata": 0,
-    "Bronce": 0
-  },
-  {
-    "Pais": "Bahamas",
-    "bandera": "bahamas",
-    "Oro": 0,
-    "Plata": 0,
-    "Bronce": 0
-  },
-  {
-    "Pais": "Bangladés",
-    "bandera": "banglades",
-    "Oro": 0,
-    "Plata": 0,
-    "Bronce": 0
-  },
-  {
-    "Pais": "Barbados",
-    "bandera": "barbados",
-    "Oro": 0,
-    "Plata": 0,
-    "Bronce": 0
-  },
-  {
-    "Pais": "Baréin",
-    "bandera": "barein",
-    "Oro": 0,
-    "Plata": 0,
-    "Bronce": 0
-  },
-  {
-    "Pais": "Bélgica",
-    "bandera": "belgica",
-    "Oro": 0,
-    "Plata": 1,
-    "Bronce": 0
-  },
-  {
-    "Pais": "Belice",
-    "bandera": "belice",
-    "Oro": 0,
-    "Plata": 0,
-    "Bronce": 0
-  },
-  {
-    "Pais": "Benín",
-    "bandera": "benin",
-    "Oro": 0,
-    "Plata": 0,
-    "Bronce": 0
-  },
-  {
-    "Pais": "Bermudas",
-    "bandera": "bermudas",
-    "Oro": 0,
-    "Plata": 0,
-    "Bronce": 0
-  },
-  {
-    "Pais": "Bielorrusia",
-    "bandera": "bielorrusia",
-    "Oro": 0,
-    "Plata": 0,
-    "Bronce": 0
-  },
-  {
-    "Pais": "Birmania",
-    "bandera": "birmania",
-    "Oro": 0,
-    "Plata": 0,
-    "Bronce": 0
-  },
-  {
-    "Pais": "Bolivia",
-    "bandera": "bolivia",
-    "Oro": 0,
-    "Plata": 0,
-    "Bronce": 0
-  },
-  {
-    "Pais": "Bosnia y Herzegovina",
-    "bandera": "bosniayherzegovina",
-    "Oro": 0,
-    "Plata": 0,
-    "Bronce": 0
-  },
-  {
-    "Pais": "Botsuana",
-    "bandera": "botsuana",
-    "Oro": 0,
-    "Plata": 0,
-    "Bronce": 0
-  },
-  {
-    "Pais": "Brasil",
-    "bandera": "brasil",
-    "Oro": 0,
-    "Plata": 0,
-    "Bronce": 0
-  },
-  {
-    "Pais": "Brunéi",
-    "bandera": "brunei",
-    "Oro": 0,
-    "Plata": 0,
-    "Bronce": 0
-  },
-  {
-    "Pais": "Bulgaria",
-    "bandera": "bulgaria",
-    "Oro": 0,
-    "Plata": 1,
-    "Bronce": 0
-  },
-  {
-    "Pais": "Burkina Faso",
-    "bandera": "burkinafaso",
-    "Oro": 0,
-    "Plata": 0,
-    "Bronce": 0
-  },
-  {
-    "Pais": "Burundi",
-    "bandera": "burundi",
-    "Oro": 0,
-    "Plata": 0,
-    "Bronce": 0
-  },
-  {
-    "Pais": "Bután",
-    "bandera": "butan",
-    "Oro": 0,
-    "Plata": 0,
-    "Bronce": 0
-  },
-  {
-    "Pais": "Cabo Verde",
-    "bandera": "caboverde",
-    "Oro": 0,
-    "Plata": 0,
-    "Bronce": 0
-  },
-  {
-    "Pais": "Camboya",
-    "bandera": "camboya",
-    "Oro": 0,
-    "Plata": 0,
-    "Bronce": 0
-  },
-  {
-    "Pais": "Camerún",
-    "bandera": "camerun",
-    "Oro": 0,
-    "Plata": 0,
-    "Bronce": 0
-  },
-  {
-    "Pais": "Canadá",
-    "bandera": "canada",
-    "Oro": 0,
-    "Plata": 1,
-    "Bronce": 0
-  },
-  {
-    "Pais": "Catar",
-    "bandera": "catar",
-    "Oro": 0,
-    "Plata": 0,
-    "Bronce": 0
-  },
-  {
-    "Pais": "Chad",
-    "bandera": "chad",
-    "Oro": 0,
-    "Plata": 0,
-    "Bronce": 0
-  },
-  {
-    "Pais": "Chile",
-    "bandera": "chile",
-    "Oro": 0,
-    "Plata": 0,
-    "Bronce": 0
-  },
-  {
     "Pais": "China",
     "bandera": "china",
     "Oro": 3,
@@ -294,143 +7,10 @@
     "Bronce": 2
   },
   {
-    "Pais": "China Taipéi",
-    "bandera": "chinataipei",
-    "Oro": 0,
+    "Pais": "Japón",
+    "bandera": "japon",
+    "Oro": 2,
     "Plata": 1,
-    "Bronce": 0
-  },
-  {
-    "Pais": "Chipre",
-    "bandera": "chipre",
-    "Oro": 0,
-    "Plata": 0,
-    "Bronce": 0
-  },
-  {
-    "Pais": "Colombia",
-    "bandera": "colombia",
-    "Oro": 0,
-    "Plata": 0,
-    "Bronce": 0
-  },
-  {
-    "Pais": "Comoras",
-    "bandera": "comoras",
-    "Oro": 0,
-    "Plata": 0,
-    "Bronce": 0
-  },
-  {
-    "Pais": "Corea del Sur",
-    "bandera": "coreadelsur",
-    "Oro": 1,
-    "Plata": 0,
-    "Bronce": 2
-  },
-  {
-    "Pais": "Costa de Marfil",
-    "bandera": "costademarfil",
-    "Oro": 0,
-    "Plata": 0,
-    "Bronce": 0
-  },
-  {
-    "Pais": "Costa Rica",
-    "bandera": "costarica",
-    "Oro": 0,
-    "Plata": 0,
-    "Bronce": 0
-  },
-  {
-    "Pais": "Croacia",
-    "bandera": "croacia",
-    "Oro": 0,
-    "Plata": 0,
-    "Bronce": 0
-  },
-  {
-    "Pais": "Cuba",
-    "bandera": "cuba",
-    "Oro": 0,
-    "Plata": 0,
-    "Bronce": 0
-  },
-  {
-    "Pais": "Dinamarca",
-    "bandera": "dinamarca",
-    "Oro": 0,
-    "Plata": 0,
-    "Bronce": 0
-  },
-  {
-    "Pais": "Dominica",
-    "bandera": "dominica",
-    "Oro": 0,
-    "Plata": 0,
-    "Bronce": 0
-  },
-  {
-    "Pais": "Ecuador",
-    "bandera": "ecuador",
-    "Oro": 0,
-    "Plata": 0,
-    "Bronce": 0
-  },
-  {
-    "Pais": "Egipto",
-    "bandera": "egipto",
-    "Oro": 0,
-    "Plata": 0,
-    "Bronce": 0
-  },
-  {
-    "Pais": "El Salvador",
-    "bandera": "elsalvador",
-    "Oro": 0,
-    "Plata": 0,
-    "Bronce": 0
-  },
-  {
-    "Pais": "Emiratos Árabes Unidos",
-    "bandera": "emiratosarabesunidos",
-    "Oro": 0,
-    "Plata": 0,
-    "Bronce": 0
-  },
-  {
-    "Pais": "Eritrea",
-    "bandera": "eritrea",
-    "Oro": 0,
-    "Plata": 0,
-    "Bronce": 0
-  },
-  {
-    "Pais": "Eslovaquia",
-    "bandera": "eslovaquia",
-    "Oro": 0,
-    "Plata": 0,
-    "Bronce": 0
-  },
-  {
-    "Pais": "Eslovenia",
-    "bandera": "eslovenia",
-    "Oro": 0,
-    "Plata": 0,
-    "Bronce": 1
-  },
-  {
-    "Pais": "España",
-    "bandera": "españa",
-    "Oro": 0,
-    "Plata": 1,
-    "Bronce": 0
-  },
-  {
-    "Pais": "Micronesia",
-    "bandera": "micronesia",
-    "Oro": 0,
-    "Plata": 0,
     "Bronce": 0
   },
   {
@@ -441,249 +21,25 @@
     "Bronce": 3
   },
   {
-    "Pais": "Estonia",
-    "bandera": "estonia",
-    "Oro": 0,
-    "Plata": 0,
-    "Bronce": 1
-  },
-  {
-    "Pais": "Etiopía",
-    "bandera": "etiopia",
-    "Oro": 0,
-    "Plata": 0,
-    "Bronce": 0
-  },
-  {
-    "Pais": "Filipinas",
-    "bandera": "filipinas",
-    "Oro": 0,
-    "Plata": 0,
-    "Bronce": 0
-  },
-  {
-    "Pais": "Finlandia",
-    "bandera": "finlandia",
-    "Oro": 0,
-    "Plata": 0,
-    "Bronce": 0
-  },
-  {
-    "Pais": "Fiyi",
-    "bandera": "fiyi",
-    "Oro": 0,
-    "Plata": 0,
-    "Bronce": 0
-  },
-  {
-    "Pais": "Francia",
-    "bandera": "francia",
-    "Oro": 0,
-    "Plata": 0,
-    "Bronce": 1
-  },
-  {
-    "Pais": "Gabón",
-    "bandera": "gabon",
-    "Oro": 0,
-    "Plata": 0,
-    "Bronce": 0
-  },
-  {
-    "Pais": "Gambia",
-    "bandera": "gambia",
-    "Oro": 0,
-    "Plata": 0,
-    "Bronce": 0
-  },
-  {
-    "Pais": "Georgia",
-    "bandera": "georgia",
-    "Oro": 0,
-    "Plata": 0,
-    "Bronce": 0
-  },
-  {
-    "Pais": "Ghana",
-    "bandera": "ghana",
-    "Oro": 0,
-    "Plata": 0,
-    "Bronce": 0
-  },
-  {
-    "Pais": "Granada",
-    "bandera": "granada",
-    "Oro": 0,
-    "Plata": 0,
-    "Bronce": 0
-  },
-  {
-    "Pais": "Grecia",
-    "bandera": "grecia",
-    "Oro": 0,
-    "Plata": 0,
-    "Bronce": 0
-  },
-  {
-    "Pais": "Guam",
-    "bandera": "guam",
-    "Oro": 0,
-    "Plata": 0,
-    "Bronce": 0
-  },
-  {
-    "Pais": "Guatemala",
-    "bandera": "guatemala",
-    "Oro": 0,
-    "Plata": 0,
-    "Bronce": 0
-  },
-  {
-    "Pais": "Guinea",
-    "bandera": "guinea",
-    "Oro": 0,
-    "Plata": 0,
-    "Bronce": 0
-  },
-  {
-    "Pais": "Guinea-Bisáu",
-    "bandera": "guineabisau",
-    "Oro": 0,
-    "Plata": 0,
-    "Bronce": 0
-  },
-  {
-    "Pais": "Guinea Ecuatorial",
-    "bandera": "guineaecuatorial",
-    "Oro": 0,
-    "Plata": 0,
-    "Bronce": 0
-  },
-  {
-    "Pais": "Guyana",
-    "bandera": "guyana",
-    "Oro": 0,
-    "Plata": 0,
-    "Bronce": 0
-  },
-  {
-    "Pais": "Haití",
-    "bandera": "haiti",
-    "Oro": 0,
-    "Plata": 0,
-    "Bronce": 0
-  },
-  {
-    "Pais": "Honduras",
-    "bandera": "honduras",
-    "Oro": 0,
-    "Plata": 0,
-    "Bronce": 0
-  },
-  {
-    "Pais": "Hong Kong",
-    "bandera": "hongkong",
-    "Oro": 0,
-    "Plata": 0,
-    "Bronce": 0
-  },
-  {
-    "Pais": "Hungría",
-    "bandera": "hungria",
+    "Pais": "Rusia",
+    "bandera": "rusia",
     "Oro": 1,
-    "Plata": 0,
-    "Bronce": 0
+    "Plata": 1,
+    "Bronce": 1
   },
   {
-    "Pais": "India",
-    "bandera": "india",
-    "Oro": 0,
+    "Pais": "Australia",
+    "bandera": "australia",
+    "Oro": 1,
+    "Plata": 1,
+    "Bronce": 1
+  },
+  {
+    "Pais": "Túnez",
+    "bandera": "tunez",
+    "Oro": 1,
     "Plata": 1,
     "Bronce": 0
-  },
-  {
-    "Pais": "Indonesia",
-    "bandera": "indonesia",
-    "Oro": 0,
-    "Plata": 0,
-    "Bronce": 1
-  },
-  {
-    "Pais": "Irak",
-    "bandera": "irak",
-    "Oro": 0,
-    "Plata": 0,
-    "Bronce": 0
-  },
-  {
-    "Pais": "Irán",
-    "bandera": "iran",
-    "Oro": 1,
-    "Plata": 0,
-    "Bronce": 0
-  },
-  {
-    "Pais": "Irlanda",
-    "bandera": "irlanda",
-    "Oro": 0,
-    "Plata": 0,
-    "Bronce": 0
-  },
-  {
-    "Pais": "Islandia",
-    "bandera": "islandia",
-    "Oro": 0,
-    "Plata": 0,
-    "Bronce": 0
-  },
-  {
-    "Pais": "Islas Caimán",
-    "bandera": "islascaiman",
-    "Oro": 0,
-    "Plata": 0,
-    "Bronce": 0
-  },
-  {
-    "Pais": "Islas Cook",
-    "bandera": "islascook",
-    "Oro": 0,
-    "Plata": 0,
-    "Bronce": 0
-  },
-  {
-    "Pais": "Islas Marshall",
-    "bandera": "islasmarshall",
-    "Oro": 0,
-    "Plata": 0,
-    "Bronce": 0
-  },
-  {
-    "Pais": "Islas Salomón",
-    "bandera": "islassalomon",
-    "Oro": 0,
-    "Plata": 0,
-    "Bronce": 0
-  },
-  {
-    "Pais": "Islas Vírgenes Británicas",
-    "bandera": "islasvirgenesbritanicas",
-    "Oro": 0,
-    "Plata": 0,
-    "Bronce": 0
-  },
-  {
-    "Pais": "Islas Vírgenes de los Estados Unidos",
-    "bandera": "islasvirgenesdelosestadosunidos",
-    "Oro": 0,
-    "Plata": 0,
-    "Bronce": 0
-  },
-  {
-    "Pais": "Israel",
-    "bandera": "israel",
-    "Oro": 0,
-    "Plata": 0,
-    "Bronce": 1
   },
   {
     "Pais": "Italia",
@@ -693,51 +49,16 @@
     "Bronce": 0
   },
   {
-    "Pais": "Jamaica",
-    "bandera": "jamaica",
-    "Oro": 0,
+    "Pais": "Corea del Sur",
+    "bandera": "coreadelsur",
+    "Oro": 1,
     "Plata": 0,
-    "Bronce": 0
+    "Bronce": 2
   },
   {
-    "Pais": "Japón",
-    "bandera": "japon",
-    "Oro": 2,
-    "Plata": 1,
-    "Bronce": 0
-  },
-  {
-    "Pais": "Jordania",
-    "bandera": "jordania",
-    "Oro": 0,
-    "Plata": 0,
-    "Bronce": 0
-  },
-  {
-    "Pais": "Kazajistán",
-    "bandera": "kazajistan",
-    "Oro": 0,
-    "Plata": 0,
-    "Bronce": 1
-  },
-  {
-    "Pais": "Kenia",
-    "bandera": "kenia",
-    "Oro": 0,
-    "Plata": 0,
-    "Bronce": 0
-  },
-  {
-    "Pais": "Kirguistán",
-    "bandera": "kirguistan",
-    "Oro": 0,
-    "Plata": 0,
-    "Bronce": 0
-  },
-  {
-    "Pais": "Kiribati",
-    "bandera": "kiribati",
-    "Oro": 0,
+    "Pais": "Tailandia",
+    "bandera": "tailandia",
+    "Oro": 1,
     "Plata": 0,
     "Bronce": 0
   },
@@ -749,443 +70,16 @@
     "Bronce": 0
   },
   {
-    "Pais": "Kuwait",
-    "bandera": "kuwait",
-    "Oro": 0,
-    "Plata": 0,
-    "Bronce": 0
-  },
-  {
-    "Pais": "Laos",
-    "bandera": "laos",
-    "Oro": 0,
-    "Plata": 0,
-    "Bronce": 0
-  },
-  {
-    "Pais": "Lesoto",
-    "bandera": "lesoto",
-    "Oro": 0,
-    "Plata": 0,
-    "Bronce": 0
-  },
-  {
-    "Pais": "Letonia",
-    "bandera": "letonia",
-    "Oro": 0,
-    "Plata": 0,
-    "Bronce": 0
-  },
-  {
-    "Pais": "Líbano",
-    "bandera": "libano",
-    "Oro": 0,
-    "Plata": 0,
-    "Bronce": 0
-  },
-  {
-    "Pais": "Liberia",
-    "bandera": "liberia",
-    "Oro": 0,
-    "Plata": 0,
-    "Bronce": 0
-  },
-  {
-    "Pais": "Libia",
-    "bandera": "libia",
-    "Oro": 0,
-    "Plata": 0,
-    "Bronce": 0
-  },
-  {
-    "Pais": "Liechtenstein",
-    "bandera": "liechtenstein",
-    "Oro": 0,
-    "Plata": 0,
-    "Bronce": 0
-  },
-  {
-    "Pais": "Lituania",
-    "bandera": "lituania",
-    "Oro": 0,
-    "Plata": 0,
-    "Bronce": 0
-  },
-  {
-    "Pais": "Luxemburgo",
-    "bandera": "luxemburgo",
-    "Oro": 0,
-    "Plata": 0,
-    "Bronce": 0
-  },
-  {
-    "Pais": "Macedonia del Norte",
-    "bandera": "macedoniadelnorte",
-    "Oro": 0,
-    "Plata": 0,
-    "Bronce": 0
-  },
-  {
-    "Pais": "Madagascar",
-    "bandera": "madagascar",
-    "Oro": 0,
-    "Plata": 0,
-    "Bronce": 0
-  },
-  {
-    "Pais": "Malasia",
-    "bandera": "malasia",
-    "Oro": 0,
-    "Plata": 0,
-    "Bronce": 0
-  },
-  {
-    "Pais": "Malaui",
-    "bandera": "malui",
-    "Oro": 0,
-    "Plata": 0,
-    "Bronce": 0
-  },
-  {
-    "Pais": "Maldivas",
-    "bandera": "maldivas",
-    "Oro": 0,
-    "Plata": 0,
-    "Bronce": 0
-  },
-  {
-    "Pais": "Malí",
-    "bandera": "mali",
-    "Oro": 0,
-    "Plata": 0,
-    "Bronce": 0
-  },
-  {
-    "Pais": "Malta",
-    "bandera": "malta",
-    "Oro": 0,
-    "Plata": 0,
-    "Bronce": 0
-  },
-  {
-    "Pais": "Marruecos",
-    "bandera": "marruecos",
-    "Oro": 0,
-    "Plata": 0,
-    "Bronce": 0
-  },
-  {
-    "Pais": "Mauricio",
-    "bandera": "mauricio",
-    "Oro": 0,
-    "Plata": 0,
-    "Bronce": 0
-  },
-  {
-    "Pais": "Mauritania",
-    "bandera": "mauritania",
-    "Oro": 0,
-    "Plata": 0,
-    "Bronce": 0
-  },
-  {
-    "Pais": "México",
-    "bandera": "mexico",
-    "Oro": 0,
-    "Plata": 0,
-    "Bronce": 1
-  },
-  {
-    "Pais": "Moldavia",
-    "bandera": "moldavia",
-    "Oro": 0,
-    "Plata": 0,
-    "Bronce": 0
-  },
-  {
-    "Pais": "Mónaco",
-    "bandera": "monaco",
-    "Oro": 0,
-    "Plata": 0,
-    "Bronce": 0
-  },
-  {
-    "Pais": "Mongolia",
-    "bandera": "mongolia",
-    "Oro": 0,
-    "Plata": 0,
-    "Bronce": 1
-  },
-  {
-    "Pais": "Montenegro",
-    "bandera": "montenegro",
-    "Oro": 0,
-    "Plata": 0,
-    "Bronce": 0
-  },
-  {
-    "Pais": "Mozambique",
-    "bandera": "mozambique",
-    "Oro": 0,
-    "Plata": 0,
-    "Bronce": 0
-  },
-  {
-    "Pais": "Namibia",
-    "bandera": "namibia",
-    "Oro": 0,
-    "Plata": 0,
-    "Bronce": 0
-  },
-  {
-    "Pais": "Nauru",
-    "bandera": "nauru",
-    "Oro": 0,
-    "Plata": 0,
-    "Bronce": 0
-  },
-  {
-    "Pais": "Nepal",
-    "bandera": "nepal",
-    "Oro": 0,
-    "Plata": 0,
-    "Bronce": 0
-  },
-  {
-    "Pais": "Nicaragua",
-    "bandera": "nicaragua",
-    "Oro": 0,
-    "Plata": 0,
-    "Bronce": 0
-  },
-  {
-    "Pais": "Níger",
-    "bandera": "niger",
-    "Oro": 0,
-    "Plata": 0,
-    "Bronce": 0
-  },
-  {
-    "Pais": "Nigeria",
-    "bandera": "nigeria",
-    "Oro": 0,
-    "Plata": 0,
-    "Bronce": 0
-  },
-  {
-    "Pais": "Noruega",
-    "bandera": "noruega",
-    "Oro": 0,
-    "Plata": 0,
-    "Bronce": 0
-  },
-  {
-    "Pais": "Nueva Zelanda",
-    "bandera": "nuevazelanda",
-    "Oro": 0,
-    "Plata": 0,
-    "Bronce": 0
-  },
-  {
-    "Pais": "Omán",
-    "bandera": "oman",
-    "Oro": 0,
-    "Plata": 0,
-    "Bronce": 0
-  },
-  {
-    "Pais": "Países Bajos",
-    "bandera": "paisesbajos",
-    "Oro": 0,
-    "Plata": 1,
-    "Bronce": 0
-  },
-  {
-    "Pais": "Pakistán",
-    "bandera": "pakistan",
-    "Oro": 0,
-    "Plata": 0,
-    "Bronce": 0
-  },
-  {
-    "Pais": "Palaos",
-    "bandera": "palaos",
-    "Oro": 0,
-    "Plata": 0,
-    "Bronce": 0
-  },
-  {
-    "Pais": "Palestina",
-    "bandera": "palestina",
-    "Oro": 0,
-    "Plata": 0,
-    "Bronce": 0
-  },
-  {
-    "Pais": "Panamá",
-    "bandera": "panama",
-    "Oro": 0,
-    "Plata": 0,
-    "Bronce": 0
-  },
-  {
-    "Pais": "Papúa Nueva Guinea",
-    "bandera": "papuanuevaguinea",
-    "Oro": 0,
-    "Plata": 0,
-    "Bronce": 0
-  },
-  {
-    "Pais": "Paraguay",
-    "bandera": "paraguay",
-    "Oro": 0,
-    "Plata": 0,
-    "Bronce": 0
-  },
-  {
-    "Pais": "Perú",
-    "bandera": "peru",
-    "Oro": 0,
-    "Plata": 0,
-    "Bronce": 0
-  },
-  {
-    "Pais": "Polonia",
-    "bandera": "polonia",
-    "Oro": 0,
-    "Plata": 0,
-    "Bronce": 0
-  },
-  {
-    "Pais": "Portugal",
-    "bandera": "portugal",
-    "Oro": 0,
-    "Plata": 0,
-    "Bronce": 0
-  },
-  {
-    "Pais": "Puerto Rico",
-    "bandera": "puertorico",
-    "Oro": 0,
-    "Plata": 0,
-    "Bronce": 0
-  },
-  {
-    "Pais": "Reino Unido",
-    "bandera": "reinounido",
-    "Oro": 0,
-    "Plata": 0,
-    "Bronce": 0
-  },
-  {
-    "Pais": "República Centroafricana",
-    "bandera": "republicacentroafricana",
-    "Oro": 0,
-    "Plata": 0,
-    "Bronce": 0
-  },
-  {
-    "Pais": "República Checa",
-    "bandera": "republicacheca",
-    "Oro": 0,
-    "Plata": 0,
-    "Bronce": 0
-  },
-  {
-    "Pais": "República del Congo",
-    "bandera": "republicadelcongo",
-    "Oro": 0,
-    "Plata": 0,
-    "Bronce": 0
-  },
-  {
-    "Pais": "República Democrática del Congo",
-    "bandera": "republicademocraticadelcongo",
-    "Oro": 0,
-    "Plata": 0,
-    "Bronce": 0
-  },
-  {
-    "Pais": "República Dominicana",
-    "bandera": "republicadominicana",
-    "Oro": 0,
-    "Plata": 0,
-    "Bronce": 0
-  },
-  {
-    "Pais": "Ruanda",
-    "bandera": "ruanda",
-    "Oro": 0,
-    "Plata": 0,
-    "Bronce": 0
-  },
-  {
-    "Pais": "Rumania",
-    "bandera": "rumania",
-    "Oro": 0,
-    "Plata": 1,
-    "Bronce": 0
-  },
-  {
-    "Pais": "Rusia",
-    "bandera": "rusia",
+    "Pais": "Irán",
+    "bandera": "iran",
     "Oro": 1,
-    "Plata": 1,
-    "Bronce": 1
-  },
-  {
-    "Pais": "Samoa",
-    "bandera": "samoa",
-    "Oro": 0,
     "Plata": 0,
     "Bronce": 0
   },
   {
-    "Pais": "Samoa Americana",
-    "bandera": "samoaamericana",
-    "Oro": 0,
-    "Plata": 0,
-    "Bronce": 0
-  },
-  {
-    "Pais": "San Cristóbal y Nieves",
-    "bandera": "sancristobalynieves",
-    "Oro": 0,
-    "Plata": 0,
-    "Bronce": 0
-  },
-  {
-    "Pais": "San Marino",
-    "bandera": "sanmarino",
-    "Oro": 0,
-    "Plata": 0,
-    "Bronce": 0
-  },
-  {
-    "Pais": "San Vicente y las Granadinas",
-    "bandera": "sanvicenteylasgranadinas",
-    "Oro": 0,
-    "Plata": 0,
-    "Bronce": 0
-  },
-  {
-    "Pais": "Santa Lucía",
-    "bandera": "santalucia",
-    "Oro": 0,
-    "Plata": 0,
-    "Bronce": 0
-  },
-  {
-    "Pais": "Santo Tomé y Príncipe",
-    "bandera": "santotomeyprincipe",
-    "Oro": 0,
-    "Plata": 0,
-    "Bronce": 0
-  },
-  {
-    "Pais": "Senegal",
-    "bandera": "senegal",
-    "Oro": 0,
+    "Pais": "Hungría",
+    "bandera": "hungria",
+    "Oro": 1,
     "Plata": 0,
     "Bronce": 0
   },
@@ -1197,15 +91,309 @@
     "Bronce": 1
   },
   {
-    "Pais": "Seychelles",
-    "bandera": "seychelles",
+    "Pais": "Rumania",
+    "bandera": "rumania",
+    "Oro": 0,
+    "Plata": 1,
+    "Bronce": 0
+  },
+  {
+    "Pais": "Países Bajos",
+    "bandera": "paisesbajos",
+    "Oro": 0,
+    "Plata": 1,
+    "Bronce": 0
+  },
+  {
+    "Pais": "India",
+    "bandera": "india",
+    "Oro": 0,
+    "Plata": 1,
+    "Bronce": 0
+  },
+  {
+    "Pais": "España",
+    "bandera": "españa",
+    "Oro": 0,
+    "Plata": 1,
+    "Bronce": 0
+  },
+  {
+    "Pais": "China Taipéi",
+    "bandera": "chinataipei",
+    "Oro": 0,
+    "Plata": 1,
+    "Bronce": 0
+  },
+  {
+    "Pais": "Canadá",
+    "bandera": "canada",
+    "Oro": 0,
+    "Plata": 1,
+    "Bronce": 0
+  },
+  {
+    "Pais": "Bulgaria",
+    "bandera": "bulgaria",
+    "Oro": 0,
+    "Plata": 1,
+    "Bronce": 0
+  },
+  {
+    "Pais": "Bélgica",
+    "bandera": "belgica",
+    "Oro": 0,
+    "Plata": 1,
+    "Bronce": 0
+  },
+  {
+    "Pais": "Ucrania",
+    "bandera": "ucrania",
+    "Oro": 0,
+    "Plata": 0,
+    "Bronce": 1
+  },
+  {
+    "Pais": "Suiza",
+    "bandera": "suiza",
+    "Oro": 0,
+    "Plata": 0,
+    "Bronce": 1
+  },
+  {
+    "Pais": "Mongolia",
+    "bandera": "mongolia",
+    "Oro": 0,
+    "Plata": 0,
+    "Bronce": 1
+  },
+  {
+    "Pais": "México",
+    "bandera": "mexico",
+    "Oro": 0,
+    "Plata": 0,
+    "Bronce": 1
+  },
+  {
+    "Pais": "Kazajistán",
+    "bandera": "kazajistan",
+    "Oro": 0,
+    "Plata": 0,
+    "Bronce": 1
+  },
+  {
+    "Pais": "Israel",
+    "bandera": "israel",
+    "Oro": 0,
+    "Plata": 0,
+    "Bronce": 1
+  },
+  {
+    "Pais": "Indonesia",
+    "bandera": "indonesia",
+    "Oro": 0,
+    "Plata": 0,
+    "Bronce": 1
+  },
+  {
+    "Pais": "Francia",
+    "bandera": "francia",
+    "Oro": 0,
+    "Plata": 0,
+    "Bronce": 1
+  },
+  {
+    "Pais": "Estonia",
+    "bandera": "estonia",
+    "Oro": 0,
+    "Plata": 0,
+    "Bronce": 1
+  },
+  {
+    "Pais": "Eslovenia",
+    "bandera": "eslovenia",
+    "Oro": 0,
+    "Plata": 0,
+    "Bronce": 1
+  },
+  {
+    "Pais": "Zimbabue",
+    "bandera": "zimbabue",
     "Oro": 0,
     "Plata": 0,
     "Bronce": 0
   },
   {
-    "Pais": "Sierra Leona",
-    "bandera": "sierraleona",
+    "Pais": "Zambia",
+    "bandera": "zambia",
+    "Oro": 0,
+    "Plata": 0,
+    "Bronce": 0
+  },
+  {
+    "Pais": "Yibuti",
+    "bandera": "yibuti",
+    "Oro": 0,
+    "Plata": 0,
+    "Bronce": 0
+  },
+  {
+    "Pais": "Yemen",
+    "bandera": "yemen",
+    "Oro": 0,
+    "Plata": 0,
+    "Bronce": 0
+  },
+  {
+    "Pais": "Vietnam",
+    "bandera": "vietnam",
+    "Oro": 0,
+    "Plata": 0,
+    "Bronce": 0
+  },
+  {
+    "Pais": "Venezuela",
+    "bandera": "venezuela",
+    "Oro": 0,
+    "Plata": 0,
+    "Bronce": 0
+  },
+  {
+    "Pais": "Vanuatu",
+    "bandera": "vanuatu",
+    "Oro": 0,
+    "Plata": 0,
+    "Bronce": 0
+  },
+  {
+    "Pais": "Uzbekistán",
+    "bandera": "uzbekistan",
+    "Oro": 0,
+    "Plata": 0,
+    "Bronce": 0
+  },
+  {
+    "Pais": "Uruguay",
+    "bandera": "uruguay",
+    "Oro": 0,
+    "Plata": 0,
+    "Bronce": 0
+  },
+  {
+    "Pais": "Uganda",
+    "bandera": "uganda",
+    "Oro": 0,
+    "Plata": 0,
+    "Bronce": 0
+  },
+  {
+    "Pais": "Tuvalu",
+    "bandera": "tuvalu",
+    "Oro": 0,
+    "Plata": 0,
+    "Bronce": 0
+  },
+  {
+    "Pais": "Turquía",
+    "bandera": "turquia",
+    "Oro": 0,
+    "Plata": 0,
+    "Bronce": 0
+  },
+  {
+    "Pais": "Turkmenistán",
+    "bandera": "turkmenistan",
+    "Oro": 0,
+    "Plata": 0,
+    "Bronce": 0
+  },
+  {
+    "Pais": "Trinidad y Tobago",
+    "bandera": "trinidadytobago",
+    "Oro": 0,
+    "Plata": 0,
+    "Bronce": 0
+  },
+  {
+    "Pais": "Tonga",
+    "bandera": "tonga",
+    "Oro": 0,
+    "Plata": 0,
+    "Bronce": 0
+  },
+  {
+    "Pais": "Togo",
+    "bandera": "togo",
+    "Oro": 0,
+    "Plata": 0,
+    "Bronce": 0
+  },
+  {
+    "Pais": "Tayikistán",
+    "bandera": "tayikistan",
+    "Oro": 0,
+    "Plata": 0,
+    "Bronce": 0
+  },
+  {
+    "Pais": "Tanzania",
+    "bandera": "tanzania",
+    "Oro": 0,
+    "Plata": 0,
+    "Bronce": 0
+  },
+  {
+    "Pais": "Surinam",
+    "bandera": "surinam",
+    "Oro": 0,
+    "Plata": 0,
+    "Bronce": 0
+  },
+  {
+    "Pais": "Suecia",
+    "bandera": "suecia",
+    "Oro": 0,
+    "Plata": 0,
+    "Bronce": 0
+  },
+  {
+    "Pais": "Sudán del Sur",
+    "bandera": "sudandelsur",
+    "Oro": 0,
+    "Plata": 0,
+    "Bronce": 0
+  },
+  {
+    "Pais": "Sudán",
+    "bandera": "sudan",
+    "Oro": 0,
+    "Plata": 0,
+    "Bronce": 0
+  },
+  {
+    "Pais": "Sudáfrica",
+    "bandera": "sudafrica",
+    "Oro": 0,
+    "Plata": 0,
+    "Bronce": 0
+  },
+  {
+    "Pais": "Suazilandia",
+    "bandera": "suazilandia",
+    "Oro": 0,
+    "Plata": 0,
+    "Bronce": 0
+  },
+  {
+    "Pais": "Sri Lanka",
+    "bandera": "srilanka",
+    "Oro": 0,
+    "Plata": 0,
+    "Bronce": 0
+  },
+  {
+    "Pais": "Somalia",
+    "bandera": "somalia",
     "Oro": 0,
     "Plata": 0,
     "Bronce": 0
@@ -1225,211 +413,1023 @@
     "Bronce": 0
   },
   {
-    "Pais": "Somalia",
-    "bandera": "somalia",
+    "Pais": "Sierra Leona",
+    "bandera": "sierraleona",
     "Oro": 0,
     "Plata": 0,
     "Bronce": 0
   },
   {
-    "Pais": "Sri Lanka",
-    "bandera": "srilanka",
+    "Pais": "Seychelles",
+    "bandera": "seychelles",
     "Oro": 0,
     "Plata": 0,
     "Bronce": 0
   },
   {
-    "Pais": "Suazilandia",
-    "bandera": "suazilandia",
+    "Pais": "Senegal",
+    "bandera": "senegal",
     "Oro": 0,
     "Plata": 0,
     "Bronce": 0
   },
   {
-    "Pais": "Sudáfrica",
-    "bandera": "sudafrica",
+    "Pais": "Santo Tomé y Príncipe",
+    "bandera": "santotomeyprincipe",
     "Oro": 0,
     "Plata": 0,
     "Bronce": 0
   },
   {
-    "Pais": "Sudán",
-    "bandera": "sudan",
+    "Pais": "Santa Lucía",
+    "bandera": "santalucia",
     "Oro": 0,
     "Plata": 0,
     "Bronce": 0
   },
   {
-    "Pais": "Sudán del Sur",
-    "bandera": "sudandelsur",
+    "Pais": "San Vicente y las Granadinas",
+    "bandera": "sanvicenteylasgranadinas",
     "Oro": 0,
     "Plata": 0,
     "Bronce": 0
   },
   {
-    "Pais": "Suecia",
-    "bandera": "suecia",
+    "Pais": "San Marino",
+    "bandera": "sanmarino",
     "Oro": 0,
     "Plata": 0,
     "Bronce": 0
   },
   {
-    "Pais": "Suiza",
-    "bandera": "suiza",
-    "Oro": 0,
-    "Plata": 0,
-    "Bronce": 1
-  },
-  {
-    "Pais": "Surinam",
-    "bandera": "surinam",
+    "Pais": "San Cristóbal y Nieves",
+    "bandera": "sancristobalynieves",
     "Oro": 0,
     "Plata": 0,
     "Bronce": 0
   },
   {
-    "Pais": "Tailandia",
-    "bandera": "tailandia",
-    "Oro": 1,
-    "Plata": 0,
-    "Bronce": 0
-  },
-  {
-    "Pais": "Tanzania",
-    "bandera": "tanzania",
+    "Pais": "Samoa Americana",
+    "bandera": "samoaamericana",
     "Oro": 0,
     "Plata": 0,
     "Bronce": 0
   },
   {
-    "Pais": "Tayikistán",
-    "bandera": "tayikistan",
+    "Pais": "Samoa",
+    "bandera": "samoa",
     "Oro": 0,
     "Plata": 0,
     "Bronce": 0
   },
   {
-    "Pais": "Trinidad y Tobago",
-    "bandera": "trinidadytobago",
+    "Pais": "Ruanda",
+    "bandera": "ruanda",
     "Oro": 0,
     "Plata": 0,
     "Bronce": 0
   },
   {
-    "Pais": "Togo",
-    "bandera": "togo",
+    "Pais": "República Dominicana",
+    "bandera": "republicadominicana",
     "Oro": 0,
     "Plata": 0,
     "Bronce": 0
   },
   {
-    "Pais": "Tonga",
-    "bandera": "tonga",
+    "Pais": "República Democrática del Congo",
+    "bandera": "republicademocraticadelcongo",
     "Oro": 0,
     "Plata": 0,
     "Bronce": 0
   },
   {
-    "Pais": "Túnez",
-    "bandera": "tunez",
-    "Oro": 1,
-    "Plata": 1,
-    "Bronce": 0
-  },
-  {
-    "Pais": "Turkmenistán",
-    "bandera": "turkmenistan",
+    "Pais": "República del Congo",
+    "bandera": "republicadelcongo",
     "Oro": 0,
     "Plata": 0,
     "Bronce": 0
   },
   {
-    "Pais": "Turquía",
-    "bandera": "turquia",
+    "Pais": "República Checa",
+    "bandera": "republicacheca",
     "Oro": 0,
     "Plata": 0,
     "Bronce": 0
   },
   {
-    "Pais": "Tuvalu",
-    "bandera": "tuvalu",
+    "Pais": "República Centroafricana",
+    "bandera": "republicacentroafricana",
     "Oro": 0,
     "Plata": 0,
     "Bronce": 0
   },
   {
-    "Pais": "Ucrania",
-    "bandera": "ucrania",
-    "Oro": 0,
-    "Plata": 0,
-    "Bronce": 1
-  },
-  {
-    "Pais": "Uganda",
-    "bandera": "uganda",
+    "Pais": "Reino Unido",
+    "bandera": "reinounido",
     "Oro": 0,
     "Plata": 0,
     "Bronce": 0
   },
   {
-    "Pais": "Uruguay",
-    "bandera": "uruguay",
+    "Pais": "Puerto Rico",
+    "bandera": "puertorico",
     "Oro": 0,
     "Plata": 0,
     "Bronce": 0
   },
   {
-    "Pais": "Uzbekistán",
-    "bandera": "uzbekistan",
+    "Pais": "Portugal",
+    "bandera": "portugal",
     "Oro": 0,
     "Plata": 0,
     "Bronce": 0
   },
   {
-    "Pais": "Vanuatu",
-    "bandera": "vanuatu",
+    "Pais": "Polonia",
+    "bandera": "polonia",
     "Oro": 0,
     "Plata": 0,
     "Bronce": 0
   },
   {
-    "Pais": "Venezuela",
-    "bandera": "venezuela",
+    "Pais": "Perú",
+    "bandera": "peru",
     "Oro": 0,
     "Plata": 0,
     "Bronce": 0
   },
   {
-    "Pais": "Vietnam",
-    "bandera": "vietnam",
+    "Pais": "Paraguay",
+    "bandera": "paraguay",
     "Oro": 0,
     "Plata": 0,
     "Bronce": 0
   },
   {
-    "Pais": "Yemen",
-    "bandera": "yemen",
+    "Pais": "Papúa Nueva Guinea",
+    "bandera": "papuanuevaguinea",
     "Oro": 0,
     "Plata": 0,
     "Bronce": 0
   },
   {
-    "Pais": "Yibuti",
-    "bandera": "yibuti",
+    "Pais": "Panamá",
+    "bandera": "panama",
     "Oro": 0,
     "Plata": 0,
     "Bronce": 0
   },
   {
-    "Pais": "Zambia",
-    "bandera": "zambia",
+    "Pais": "Palestina",
+    "bandera": "palestina",
     "Oro": 0,
     "Plata": 0,
     "Bronce": 0
   },
   {
-    "Pais": "Zimbabue",
-    "bandera": "zimbabue",
+    "Pais": "Palaos",
+    "bandera": "palaos",
+    "Oro": 0,
+    "Plata": 0,
+    "Bronce": 0
+  },
+  {
+    "Pais": "Pakistán",
+    "bandera": "pakistan",
+    "Oro": 0,
+    "Plata": 0,
+    "Bronce": 0
+  },
+  {
+    "Pais": "Omán",
+    "bandera": "oman",
+    "Oro": 0,
+    "Plata": 0,
+    "Bronce": 0
+  },
+  {
+    "Pais": "Nueva Zelanda",
+    "bandera": "nuevazelanda",
+    "Oro": 0,
+    "Plata": 0,
+    "Bronce": 0
+  },
+  {
+    "Pais": "Noruega",
+    "bandera": "noruega",
+    "Oro": 0,
+    "Plata": 0,
+    "Bronce": 0
+  },
+  {
+    "Pais": "Nigeria",
+    "bandera": "nigeria",
+    "Oro": 0,
+    "Plata": 0,
+    "Bronce": 0
+  },
+  {
+    "Pais": "Níger",
+    "bandera": "niger",
+    "Oro": 0,
+    "Plata": 0,
+    "Bronce": 0
+  },
+  {
+    "Pais": "Nicaragua",
+    "bandera": "nicaragua",
+    "Oro": 0,
+    "Plata": 0,
+    "Bronce": 0
+  },
+  {
+    "Pais": "Nepal",
+    "bandera": "nepal",
+    "Oro": 0,
+    "Plata": 0,
+    "Bronce": 0
+  },
+  {
+    "Pais": "Nauru",
+    "bandera": "nauru",
+    "Oro": 0,
+    "Plata": 0,
+    "Bronce": 0
+  },
+  {
+    "Pais": "Namibia",
+    "bandera": "namibia",
+    "Oro": 0,
+    "Plata": 0,
+    "Bronce": 0
+  },
+  {
+    "Pais": "Mozambique",
+    "bandera": "mozambique",
+    "Oro": 0,
+    "Plata": 0,
+    "Bronce": 0
+  },
+  {
+    "Pais": "Montenegro",
+    "bandera": "montenegro",
+    "Oro": 0,
+    "Plata": 0,
+    "Bronce": 0
+  },
+  {
+    "Pais": "Mónaco",
+    "bandera": "monaco",
+    "Oro": 0,
+    "Plata": 0,
+    "Bronce": 0
+  },
+  {
+    "Pais": "Moldavia",
+    "bandera": "moldavia",
+    "Oro": 0,
+    "Plata": 0,
+    "Bronce": 0
+  },
+  {
+    "Pais": "Micronesia",
+    "bandera": "micronesia",
+    "Oro": 0,
+    "Plata": 0,
+    "Bronce": 0
+  },
+  {
+    "Pais": "Mauritania",
+    "bandera": "mauritania",
+    "Oro": 0,
+    "Plata": 0,
+    "Bronce": 0
+  },
+  {
+    "Pais": "Mauricio",
+    "bandera": "mauricio",
+    "Oro": 0,
+    "Plata": 0,
+    "Bronce": 0
+  },
+  {
+    "Pais": "Marruecos",
+    "bandera": "marruecos",
+    "Oro": 0,
+    "Plata": 0,
+    "Bronce": 0
+  },
+  {
+    "Pais": "Malta",
+    "bandera": "malta",
+    "Oro": 0,
+    "Plata": 0,
+    "Bronce": 0
+  },
+  {
+    "Pais": "Malí",
+    "bandera": "mali",
+    "Oro": 0,
+    "Plata": 0,
+    "Bronce": 0
+  },
+  {
+    "Pais": "Maldivas",
+    "bandera": "maldivas",
+    "Oro": 0,
+    "Plata": 0,
+    "Bronce": 0
+  },
+  {
+    "Pais": "Malaui",
+    "bandera": "malui",
+    "Oro": 0,
+    "Plata": 0,
+    "Bronce": 0
+  },
+  {
+    "Pais": "Malasia",
+    "bandera": "malasia",
+    "Oro": 0,
+    "Plata": 0,
+    "Bronce": 0
+  },
+  {
+    "Pais": "Madagascar",
+    "bandera": "madagascar",
+    "Oro": 0,
+    "Plata": 0,
+    "Bronce": 0
+  },
+  {
+    "Pais": "Macedonia del Norte",
+    "bandera": "macedoniadelnorte",
+    "Oro": 0,
+    "Plata": 0,
+    "Bronce": 0
+  },
+  {
+    "Pais": "Luxemburgo",
+    "bandera": "luxemburgo",
+    "Oro": 0,
+    "Plata": 0,
+    "Bronce": 0
+  },
+  {
+    "Pais": "Lituania",
+    "bandera": "lituania",
+    "Oro": 0,
+    "Plata": 0,
+    "Bronce": 0
+  },
+  {
+    "Pais": "Liechtenstein",
+    "bandera": "liechtenstein",
+    "Oro": 0,
+    "Plata": 0,
+    "Bronce": 0
+  },
+  {
+    "Pais": "Libia",
+    "bandera": "libia",
+    "Oro": 0,
+    "Plata": 0,
+    "Bronce": 0
+  },
+  {
+    "Pais": "Liberia",
+    "bandera": "liberia",
+    "Oro": 0,
+    "Plata": 0,
+    "Bronce": 0
+  },
+  {
+    "Pais": "Líbano",
+    "bandera": "libano",
+    "Oro": 0,
+    "Plata": 0,
+    "Bronce": 0
+  },
+  {
+    "Pais": "Letonia",
+    "bandera": "letonia",
+    "Oro": 0,
+    "Plata": 0,
+    "Bronce": 0
+  },
+  {
+    "Pais": "Lesoto",
+    "bandera": "lesoto",
+    "Oro": 0,
+    "Plata": 0,
+    "Bronce": 0
+  },
+  {
+    "Pais": "Laos",
+    "bandera": "laos",
+    "Oro": 0,
+    "Plata": 0,
+    "Bronce": 0
+  },
+  {
+    "Pais": "Kuwait",
+    "bandera": "kuwait",
+    "Oro": 0,
+    "Plata": 0,
+    "Bronce": 0
+  },
+  {
+    "Pais": "Kiribati",
+    "bandera": "kiribati",
+    "Oro": 0,
+    "Plata": 0,
+    "Bronce": 0
+  },
+  {
+    "Pais": "Kirguistán",
+    "bandera": "kirguistan",
+    "Oro": 0,
+    "Plata": 0,
+    "Bronce": 0
+  },
+  {
+    "Pais": "Kenia",
+    "bandera": "kenia",
+    "Oro": 0,
+    "Plata": 0,
+    "Bronce": 0
+  },
+  {
+    "Pais": "Jordania",
+    "bandera": "jordania",
+    "Oro": 0,
+    "Plata": 0,
+    "Bronce": 0
+  },
+  {
+    "Pais": "Jamaica",
+    "bandera": "jamaica",
+    "Oro": 0,
+    "Plata": 0,
+    "Bronce": 0
+  },
+  {
+    "Pais": "Islas Vírgenes de los Estados Unidos",
+    "bandera": "islasvirgenesdelosestadosunidos",
+    "Oro": 0,
+    "Plata": 0,
+    "Bronce": 0
+  },
+  {
+    "Pais": "Islas Vírgenes Británicas",
+    "bandera": "islasvirgenesbritanicas",
+    "Oro": 0,
+    "Plata": 0,
+    "Bronce": 0
+  },
+  {
+    "Pais": "Islas Salomón",
+    "bandera": "islassalomon",
+    "Oro": 0,
+    "Plata": 0,
+    "Bronce": 0
+  },
+  {
+    "Pais": "Islas Marshall",
+    "bandera": "islasmarshall",
+    "Oro": 0,
+    "Plata": 0,
+    "Bronce": 0
+  },
+  {
+    "Pais": "Islas Cook",
+    "bandera": "islascook",
+    "Oro": 0,
+    "Plata": 0,
+    "Bronce": 0
+  },
+  {
+    "Pais": "Islas Caimán",
+    "bandera": "islascaiman",
+    "Oro": 0,
+    "Plata": 0,
+    "Bronce": 0
+  },
+  {
+    "Pais": "Islandia",
+    "bandera": "islandia",
+    "Oro": 0,
+    "Plata": 0,
+    "Bronce": 0
+  },
+  {
+    "Pais": "Irlanda",
+    "bandera": "irlanda",
+    "Oro": 0,
+    "Plata": 0,
+    "Bronce": 0
+  },
+  {
+    "Pais": "Irak",
+    "bandera": "irak",
+    "Oro": 0,
+    "Plata": 0,
+    "Bronce": 0
+  },
+  {
+    "Pais": "Hong Kong",
+    "bandera": "hongkong",
+    "Oro": 0,
+    "Plata": 0,
+    "Bronce": 0
+  },
+  {
+    "Pais": "Honduras",
+    "bandera": "honduras",
+    "Oro": 0,
+    "Plata": 0,
+    "Bronce": 0
+  },
+  {
+    "Pais": "Haití",
+    "bandera": "haiti",
+    "Oro": 0,
+    "Plata": 0,
+    "Bronce": 0
+  },
+  {
+    "Pais": "Guyana",
+    "bandera": "guyana",
+    "Oro": 0,
+    "Plata": 0,
+    "Bronce": 0
+  },
+  {
+    "Pais": "Guinea Ecuatorial",
+    "bandera": "guineaecuatorial",
+    "Oro": 0,
+    "Plata": 0,
+    "Bronce": 0
+  },
+  {
+    "Pais": "Guinea-Bisáu",
+    "bandera": "guineabisau",
+    "Oro": 0,
+    "Plata": 0,
+    "Bronce": 0
+  },
+  {
+    "Pais": "Guinea",
+    "bandera": "guinea",
+    "Oro": 0,
+    "Plata": 0,
+    "Bronce": 0
+  },
+  {
+    "Pais": "Guatemala",
+    "bandera": "guatemala",
+    "Oro": 0,
+    "Plata": 0,
+    "Bronce": 0
+  },
+  {
+    "Pais": "Guam",
+    "bandera": "guam",
+    "Oro": 0,
+    "Plata": 0,
+    "Bronce": 0
+  },
+  {
+    "Pais": "Grecia",
+    "bandera": "grecia",
+    "Oro": 0,
+    "Plata": 0,
+    "Bronce": 0
+  },
+  {
+    "Pais": "Granada",
+    "bandera": "granada",
+    "Oro": 0,
+    "Plata": 0,
+    "Bronce": 0
+  },
+  {
+    "Pais": "Ghana",
+    "bandera": "ghana",
+    "Oro": 0,
+    "Plata": 0,
+    "Bronce": 0
+  },
+  {
+    "Pais": "Georgia",
+    "bandera": "georgia",
+    "Oro": 0,
+    "Plata": 0,
+    "Bronce": 0
+  },
+  {
+    "Pais": "Gambia",
+    "bandera": "gambia",
+    "Oro": 0,
+    "Plata": 0,
+    "Bronce": 0
+  },
+  {
+    "Pais": "Gabón",
+    "bandera": "gabon",
+    "Oro": 0,
+    "Plata": 0,
+    "Bronce": 0
+  },
+  {
+    "Pais": "Fiyi",
+    "bandera": "fiyi",
+    "Oro": 0,
+    "Plata": 0,
+    "Bronce": 0
+  },
+  {
+    "Pais": "Finlandia",
+    "bandera": "finlandia",
+    "Oro": 0,
+    "Plata": 0,
+    "Bronce": 0
+  },
+  {
+    "Pais": "Filipinas",
+    "bandera": "filipinas",
+    "Oro": 0,
+    "Plata": 0,
+    "Bronce": 0
+  },
+  {
+    "Pais": "Etiopía",
+    "bandera": "etiopia",
+    "Oro": 0,
+    "Plata": 0,
+    "Bronce": 0
+  },
+  {
+    "Pais": "Eslovaquia",
+    "bandera": "eslovaquia",
+    "Oro": 0,
+    "Plata": 0,
+    "Bronce": 0
+  },
+  {
+    "Pais": "Eritrea",
+    "bandera": "eritrea",
+    "Oro": 0,
+    "Plata": 0,
+    "Bronce": 0
+  },
+  {
+    "Pais": "Emiratos Árabes Unidos",
+    "bandera": "emiratosarabesunidos",
+    "Oro": 0,
+    "Plata": 0,
+    "Bronce": 0
+  },
+  {
+    "Pais": "El Salvador",
+    "bandera": "elsalvador",
+    "Oro": 0,
+    "Plata": 0,
+    "Bronce": 0
+  },
+  {
+    "Pais": "Egipto",
+    "bandera": "egipto",
+    "Oro": 0,
+    "Plata": 0,
+    "Bronce": 0
+  },
+  {
+    "Pais": "Ecuador",
+    "bandera": "ecuador",
+    "Oro": 0,
+    "Plata": 0,
+    "Bronce": 0
+  },
+  {
+    "Pais": "Dominica",
+    "bandera": "dominica",
+    "Oro": 0,
+    "Plata": 0,
+    "Bronce": 0
+  },
+  {
+    "Pais": "Dinamarca",
+    "bandera": "dinamarca",
+    "Oro": 0,
+    "Plata": 0,
+    "Bronce": 0
+  },
+  {
+    "Pais": "Cuba",
+    "bandera": "cuba",
+    "Oro": 0,
+    "Plata": 0,
+    "Bronce": 0
+  },
+  {
+    "Pais": "Croacia",
+    "bandera": "croacia",
+    "Oro": 0,
+    "Plata": 0,
+    "Bronce": 0
+  },
+  {
+    "Pais": "Costa Rica",
+    "bandera": "costarica",
+    "Oro": 0,
+    "Plata": 0,
+    "Bronce": 0
+  },
+  {
+    "Pais": "Costa de Marfil",
+    "bandera": "costademarfil",
+    "Oro": 0,
+    "Plata": 0,
+    "Bronce": 0
+  },
+  {
+    "Pais": "Comoras",
+    "bandera": "comoras",
+    "Oro": 0,
+    "Plata": 0,
+    "Bronce": 0
+  },
+  {
+    "Pais": "Colombia",
+    "bandera": "colombia",
+    "Oro": 0,
+    "Plata": 0,
+    "Bronce": 0
+  },
+  {
+    "Pais": "Chipre",
+    "bandera": "chipre",
+    "Oro": 0,
+    "Plata": 0,
+    "Bronce": 0
+  },
+  {
+    "Pais": "Chile",
+    "bandera": "chile",
+    "Oro": 0,
+    "Plata": 0,
+    "Bronce": 0
+  },
+  {
+    "Pais": "Chad",
+    "bandera": "chad",
+    "Oro": 0,
+    "Plata": 0,
+    "Bronce": 0
+  },
+  {
+    "Pais": "Catar",
+    "bandera": "catar",
+    "Oro": 0,
+    "Plata": 0,
+    "Bronce": 0
+  },
+  {
+    "Pais": "Camerún",
+    "bandera": "camerun",
+    "Oro": 0,
+    "Plata": 0,
+    "Bronce": 0
+  },
+  {
+    "Pais": "Camboya",
+    "bandera": "camboya",
+    "Oro": 0,
+    "Plata": 0,
+    "Bronce": 0
+  },
+  {
+    "Pais": "Cabo Verde",
+    "bandera": "caboverde",
+    "Oro": 0,
+    "Plata": 0,
+    "Bronce": 0
+  },
+  {
+    "Pais": "Bután",
+    "bandera": "butan",
+    "Oro": 0,
+    "Plata": 0,
+    "Bronce": 0
+  },
+  {
+    "Pais": "Burundi",
+    "bandera": "burundi",
+    "Oro": 0,
+    "Plata": 0,
+    "Bronce": 0
+  },
+  {
+    "Pais": "Burkina Faso",
+    "bandera": "burkinafaso",
+    "Oro": 0,
+    "Plata": 0,
+    "Bronce": 0
+  },
+  {
+    "Pais": "Brunéi",
+    "bandera": "brunei",
+    "Oro": 0,
+    "Plata": 0,
+    "Bronce": 0
+  },
+  {
+    "Pais": "Brasil",
+    "bandera": "brasil",
+    "Oro": 0,
+    "Plata": 0,
+    "Bronce": 0
+  },
+  {
+    "Pais": "Botsuana",
+    "bandera": "botsuana",
+    "Oro": 0,
+    "Plata": 0,
+    "Bronce": 0
+  },
+  {
+    "Pais": "Bosnia y Herzegovina",
+    "bandera": "bosniayherzegovina",
+    "Oro": 0,
+    "Plata": 0,
+    "Bronce": 0
+  },
+  {
+    "Pais": "Bolivia",
+    "bandera": "bolivia",
+    "Oro": 0,
+    "Plata": 0,
+    "Bronce": 0
+  },
+  {
+    "Pais": "Birmania",
+    "bandera": "birmania",
+    "Oro": 0,
+    "Plata": 0,
+    "Bronce": 0
+  },
+  {
+    "Pais": "Bielorrusia",
+    "bandera": "bielorrusia",
+    "Oro": 0,
+    "Plata": 0,
+    "Bronce": 0
+  },
+  {
+    "Pais": "Bermudas",
+    "bandera": "bermudas",
+    "Oro": 0,
+    "Plata": 0,
+    "Bronce": 0
+  },
+  {
+    "Pais": "Benín",
+    "bandera": "benin",
+    "Oro": 0,
+    "Plata": 0,
+    "Bronce": 0
+  },
+  {
+    "Pais": "Belice",
+    "bandera": "belice",
+    "Oro": 0,
+    "Plata": 0,
+    "Bronce": 0
+  },
+  {
+    "Pais": "Baréin",
+    "bandera": "barein",
+    "Oro": 0,
+    "Plata": 0,
+    "Bronce": 0
+  },
+  {
+    "Pais": "Barbados",
+    "bandera": "barbados",
+    "Oro": 0,
+    "Plata": 0,
+    "Bronce": 0
+  },
+  {
+    "Pais": "Bangladés",
+    "bandera": "banglades",
+    "Oro": 0,
+    "Plata": 0,
+    "Bronce": 0
+  },
+  {
+    "Pais": "Bahamas",
+    "bandera": "bahamas",
+    "Oro": 0,
+    "Plata": 0,
+    "Bronce": 0
+  },
+  {
+    "Pais": "Azerbaiyán",
+    "bandera": "azerbaiyan",
+    "Oro": 0,
+    "Plata": 0,
+    "Bronce": 0
+  },
+  {
+    "Pais": "Austria",
+    "bandera": "austria",
+    "Oro": 0,
+    "Plata": 0,
+    "Bronce": 0
+  },
+  {
+    "Pais": "Atletas Refugiados",
+    "bandera": "atletasrefugiados",
+    "Oro": 0,
+    "Plata": 0,
+    "Bronce": 0
+  },
+  {
+    "Pais": "Aruba",
+    "bandera": "aruba",
+    "Oro": 0,
+    "Plata": 0,
+    "Bronce": 0
+  },
+  {
+    "Pais": "Armenia",
+    "bandera": "armenia",
+    "Oro": 0,
+    "Plata": 0,
+    "Bronce": 0
+  },
+  {
+    "Pais": "Argentina",
+    "bandera": "argentina",
+    "Oro": 0,
+    "Plata": 0,
+    "Bronce": 0
+  },
+  {
+    "Pais": "Argelia",
+    "bandera": "argelia",
+    "Oro": 0,
+    "Plata": 0,
+    "Bronce": 0
+  },
+  {
+    "Pais": "Arabia Saudita",
+    "bandera": "arabiasaudita",
+    "Oro": 0,
+    "Plata": 0,
+    "Bronce": 0
+  },
+  {
+    "Pais": "Antigua y Barbuda",
+    "bandera": "antiguaybarbuda",
+    "Oro": 0,
+    "Plata": 0,
+    "Bronce": 0
+  },
+  {
+    "Pais": "Angola",
+    "bandera": "angola",
+    "Oro": 0,
+    "Plata": 0,
+    "Bronce": 0
+  },
+  {
+    "Pais": "Andorra",
+    "bandera": "andorra",
+    "Oro": 0,
+    "Plata": 0,
+    "Bronce": 0
+  },
+  {
+    "Pais": "Alemania",
+    "bandera": "alemania",
+    "Oro": 0,
+    "Plata": 0,
+    "Bronce": 0
+  },
+  {
+    "Pais": "Albania",
+    "bandera": "albania",
+    "Oro": 0,
+    "Plata": 0,
+    "Bronce": 0
+  },
+  {
+    "Pais": "Afganistán",
+    "bandera": "afganistan",
     "Oro": 0,
     "Plata": 0,
     "Bronce": 0
