@@ -42,6 +42,12 @@
     "Resultado": "Derrota: 6-1/7-6"
   },
   {
+    "Deportista": "Mary Dee Vargas",
+    "Prueba": "Judo 48 kilos - Octavos de Final",
+    "Fecha": "23/07/2021 22:30",
+    "Resultado": "Derrota"
+  },
+  {
     "Deportista": "Selección Chilena Femenina",
     "Prueba": "Chile vs Canadá",
     "Fecha": "24/07/2021 03:30",
@@ -57,13 +63,13 @@
     "Deportista": "Manuel Selman",
     "Prueba": "Surf R1 y R2",
     "Fecha": "24/07/2021 18:00",
-    "Resultado": "-"
+    "Resultado": "4° - repechaje"
   },
   {
     "Deportista": "E. Sanhueza y C. Abaroa",
     "Prueba": "Remo LM2x",
     "Fecha": "24/07/2021 20:00",
-    "Resultado": "-"
+    "Resultado": "5° - clasifican Final C"
   },
   {
     "Deportista": "Francisca Crovetto",
@@ -75,7 +81,7 @@
     "Deportista": "Katrina Proestakis",
     "Prueba": "Esgrima florete",
     "Fecha": "24/07/2021 20:30",
-    "Resultado": "-"
+    "Resultado": "Derrota"
   },
   {
     "Deportista": "Simona Castro",
