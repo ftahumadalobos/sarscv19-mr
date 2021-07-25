@@ -63,7 +63,7 @@
     "Deportista": "Manuel Selman",
     "Prueba": "Surf R1 y R2",
     "Fecha": "24/07/2021 18:00",
-    "Resultado": "4° - repechaje"
+    "Resultado": "4° - eliminado ronda 2"
   },
   {
     "Deportista": "E. Sanhueza y C. Abaroa",
@@ -75,7 +75,7 @@
     "Deportista": "Francisca Crovetto",
     "Prueba": "Tiro Skeet",
     "Fecha": "24/07/2021 20:00",
-    "Resultado": "-"
+    "Resultado": "66 aciertos de 75"
   },
   {
     "Deportista": "Katrina Proestakis",
@@ -87,37 +87,31 @@
     "Deportista": "Simona Castro",
     "Prueba": "Gimnasia All Around",
     "Fecha": "24/07/2021 21:00",
-    "Resultado": "-"
+    "Resultado": "60°"
   },
   {
     "Deportista": "M. Grimalt y E. Grimalt",
     "Prueba": "V. Playa: Chile vs Brasil",
     "Fecha": "24/07/2021 22:00",
-    "Resultado": "-"
+    "Resultado": "Derrota 2-1"
   },
   {
     "Deportista": "Clemente Seguel",
-    "Prueba": "Vela Láser",
+    "Prueba": "Vela Láser R1",
     "Fecha": "24/07/2021 23:00",
-    "Resultado": "-"
+    "Resultado": "25°"
   },
   {
     "Deportista": "Catalina Soto",
     "Prueba": "Ciclismo ruta",
     "Fecha": "25/07/2021 00:00",
-    "Resultado": "-"
-  },
-  {
-    "Deportista": "Virginia Yarur",
-    "Prueba": "Ecuestre adiestramiento",
-    "Fecha": "25/07/2021 04:00",
-    "Resultado": "-"
+    "Resultado": "No finalizó"
   },
   {
     "Deportista": "Virginia Yarur",
     "Prueba": "Ecuestre adiestramiento",
     "Fecha": "25/07/2021 07:30",
-    "Resultado": "-"
+    "Resultado": "No avanza a final"
   },
   {
     "Deportista": "Diego Moya",
@@ -127,7 +121,7 @@
   },
   {
     "Deportista": "Clemente Seguel",
-    "Prueba": "Vela Láser",
+    "Prueba": "Vela Láser R2",
     "Fecha": "25/07/2021 23:00",
     "Resultado": "-"
   },
