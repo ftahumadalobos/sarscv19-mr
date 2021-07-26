@@ -28,6 +28,13 @@
     "Bronce": 3
   },
   {
+    "Pais": "Reino Unido",
+    "bandera": "reinounido",
+    "Oro": 3,
+    "Plata": 3,
+    "Bronce": 1
+  },
+  {
     "Pais": "Corea del Sur",
     "bandera": "coreadelsur",
     "Oro": 3,
@@ -49,24 +56,24 @@
     "Bronce": 0
   },
   {
-    "Pais": "Canadá",
-    "bandera": "canada",
-    "Oro": 1,
-    "Plata": 2,
-    "Bronce": 1
-  },
-  {
     "Pais": "Italia",
     "bandera": "italia",
     "Oro": 1,
-    "Plata": 1,
-    "Bronce": 3
+    "Plata": 3,
+    "Bronce": 4
   },
   {
     "Pais": "Francia",
     "bandera": "francia",
     "Oro": 1,
-    "Plata": 1,
+    "Plata": 2,
+    "Bronce": 2
+  },
+  {
+    "Pais": "Canadá",
+    "bandera": "canada",
+    "Oro": 1,
+    "Plata": 2,
     "Bronce": 1
   },
   {
@@ -133,6 +140,13 @@
     "Bronce": 0
   },
   {
+    "Pais": "Ecuador",
+    "bandera": "ecuador",
+    "Oro": 1,
+    "Plata": 0,
+    "Bronce": 0
+  },
+  {
     "Pais": "Austria",
     "bandera": "austria",
     "Oro": 1,
@@ -182,13 +196,6 @@
     "Bronce": 1
   },
   {
-    "Pais": "Reino Unido",
-    "bandera": "reinounido",
-    "Oro": 0,
-    "Plata": 1,
-    "Bronce": 1
-  },
-  {
     "Pais": "Indonesia",
     "bandera": "indonesia",
     "Oro": 0,
@@ -210,8 +217,29 @@
     "Bronce": 0
   },
   {
+    "Pais": "República Checa",
+    "bandera": "republicacheca",
+    "Oro": 0,
+    "Plata": 1,
+    "Bronce": 0
+  },
+  {
+    "Pais": "Jordania",
+    "bandera": "jordania",
+    "Oro": 0,
+    "Plata": 1,
+    "Bronce": 0
+  },
+  {
     "Pais": "India",
     "bandera": "india",
+    "Oro": 0,
+    "Plata": 1,
+    "Bronce": 0
+  },
+  {
+    "Pais": "Dinamarca",
+    "bandera": "dinamarca",
     "Oro": 0,
     "Plata": 1,
     "Bronce": 0
@@ -238,6 +266,13 @@
     "Bronce": 0
   },
   {
+    "Pais": "Kazajistán",
+    "bandera": "kazajistan",
+    "Oro": 0,
+    "Plata": 0,
+    "Bronce": 3
+  },
+  {
     "Pais": "Alemania",
     "bandera": "alemania",
     "Oro": 0,
@@ -261,13 +296,6 @@
   {
     "Pais": "Mongolia",
     "bandera": "mongolia",
-    "Oro": 0,
-    "Plata": 0,
-    "Bronce": 2
-  },
-  {
-    "Pais": "Kazajistán",
-    "bandera": "kazajistan",
     "Oro": 0,
     "Plata": 0,
     "Bronce": 2
@@ -602,13 +630,6 @@
     "Bronce": 0
   },
   {
-    "Pais": "República Checa",
-    "bandera": "republicacheca",
-    "Oro": 0,
-    "Plata": 0,
-    "Bronce": 0
-  },
-  {
     "Pais": "República Centroafricana",
     "bandera": "republicacentroafricana",
     "Oro": 0,
@@ -924,13 +945,6 @@
     "Bronce": 0
   },
   {
-    "Pais": "Jordania",
-    "bandera": "jordania",
-    "Oro": 0,
-    "Plata": 0,
-    "Bronce": 0
-  },
-  {
     "Pais": "Jamaica",
     "bandera": "jamaica",
     "Oro": 0,
@@ -1148,22 +1162,8 @@
     "Bronce": 0
   },
   {
-    "Pais": "Ecuador",
-    "bandera": "ecuador",
-    "Oro": 0,
-    "Plata": 0,
-    "Bronce": 0
-  },
-  {
     "Pais": "Dominica",
     "bandera": "dominica",
-    "Oro": 0,
-    "Plata": 0,
-    "Bronce": 0
-  },
-  {
-    "Pais": "Dinamarca",
-    "bandera": "dinamarca",
     "Oro": 0,
     "Plata": 0,
     "Bronce": 0
