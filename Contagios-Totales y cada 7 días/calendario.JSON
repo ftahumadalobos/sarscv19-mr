@@ -108,6 +108,12 @@
     "Resultado": "No finalizó"
   },
   {
+    "Deportista": "Paulina Vega",
+    "Prueba": "Tenis de mesa",
+    "Fecha": "25/07/2021 05:00",
+    "Resultado": "Derrota 4-0"
+  },
+  {
     "Deportista": "Virginia Yarur",
     "Prueba": "Ecuestre adiestramiento",
     "Fecha": "25/07/2021 07:30",
@@ -117,13 +123,13 @@
     "Deportista": "Diego Moya",
     "Prueba": "Triatlón",
     "Fecha": "25/07/2021 17:30",
-    "Resultado": "-"
+    "Resultado": "30°"
   },
   {
     "Deportista": "Clemente Seguel",
     "Prueba": "Vela Láser R2",
     "Fecha": "25/07/2021 23:00",
-    "Resultado": "-"
+    "Resultado": "5°"
   },
   {
     "Deportista": "Martín Vidaurre",
