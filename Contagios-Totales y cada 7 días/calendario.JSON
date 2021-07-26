@@ -57,7 +57,7 @@
     "Deportista": "Eduardo Cisternas",
     "Prueba": "Natación 400m libres",
     "Fecha": "24/07/2021 08:00",
-    "Resultado": "1° de serie"
+    "Resultado": "1° de serie y 27° general"
   },
   {
     "Deportista": "Manuel Selman",
@@ -132,16 +132,22 @@
     "Resultado": "5°"
   },
   {
+    "Deportista": "Francisca Crovetto",
+    "Prueba": "Tiro Skeet",
+    "Fecha": "26/07/2021 00:00",
+    "Resultado": "23°"
+  },
+  {
     "Deportista": "Martín Vidaurre",
     "Prueba": "Ciclismo mountainbike",
     "Fecha": "26/07/2021 02:00",
-    "Resultado": "-"
+    "Resultado": "16°"
   },
   {
     "Deportista": "Kristel Köbrich",
     "Prueba": "Natación 1.500m libres",
     "Fecha": "26/07/2021 06:00",
-    "Resultado": "-"
+    "Resultado": "6° de serie y 14 general"
   },
   {
     "Deportista": "Bárbara Riveros",
