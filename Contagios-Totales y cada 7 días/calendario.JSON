@@ -192,28 +192,40 @@
     "Resultado": "Derrota 1-0"
   },
   {
-    "Deportista": "J. Niemann y M. Pereira",
+    "Deportista": "Joaquín Nieman",
     "Prueba": "Golf Ronda 1",
     "Fecha": "28/07/2021 18:30",
-    "Resultado": "-"
+    "Resultado": "Lugar T31"
+  },
+  {
+    "Deportista": "Mito Pereira",
+    "Prueba": "Golf Ronda 1",
+    "Fecha": "28/07/2021 18:30",
+    "Resultado": "Lugar T20"
   },
   {
     "Deportista": "Clemente Seguel",
     "Prueba": "Vela Láser R7",
     "Fecha": "28/07/2021 23:00",
-    "Resultado": "-"
+    "Resultado": "21°"
   },
   {
     "Deportista": "Clemente Seguel",
     "Prueba": "Vela Láser R8",
     "Fecha": "29/07/2021 00:30",
-    "Resultado": "-"
+    "Resultado": "22°"
+  },
+  {
+    "Deportista": "Andrés Aguilar",
+    "Prueba": "Tiro con arco",
+    "Fecha": "29/07/2021 03:00",
+    "Resultado": "Derrota 7-1"
   },
   {
     "Deportista": "Kristel Köbrich",
     "Prueba": "Natación 800m libres",
     "Fecha": "29/07/2021 06:00",
-    "Resultado": "-"
+    "Resultado": "2° serie y 19° general"
   },
   {
     "Deportista": "J. Niemann y M. Pereira",
