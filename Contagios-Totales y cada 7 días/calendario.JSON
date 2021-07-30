@@ -195,13 +195,13 @@
     "Deportista": "Joaquín Nieman",
     "Prueba": "Golf Ronda 1",
     "Fecha": "28/07/2021 18:30",
-    "Resultado": "Lugar T31"
+    "Resultado": "Lugar T31°"
   },
   {
     "Deportista": "Mito Pereira",
     "Prueba": "Golf Ronda 1",
     "Fecha": "28/07/2021 18:30",
-    "Resultado": "Lugar T20"
+    "Resultado": "Lugar T20°"
   },
   {
     "Deportista": "Clemente Seguel",
@@ -228,31 +228,43 @@
     "Resultado": "2° serie y 19° general"
   },
   {
-    "Deportista": "J. Niemann y M. Pereira",
+    "Deportista": "Joaquín Nieman",
     "Prueba": "Golf Ronda 2",
     "Fecha": "29/07/2021 18:30",
-    "Resultado": "-"
+    "Resultado": "Lugar T25°"
+  },
+  {
+    "Deportista": "Mito Pereira",
+    "Prueba": "Golf Ronda 2",
+    "Fecha": "29/07/2021 18:30",
+    "Resultado": "Lugar T3°"
   },
   {
     "Deportista": "M. Grimalt y E. Grimalt",
     "Prueba": "V. Playa: Chile vs Marruecos",
     "Fecha": "29/07/2021 22:00",
-    "Resultado": "-"
+    "Resultado": "Triunfo 2-0"
   },
   {
     "Deportista": "Clemente Seguel",
     "Prueba": "Vela Láser R9",
     "Fecha": "30/07/2021 01:30",
-    "Resultado": "-"
+    "Resultado": "18°"
   },
   {
     "Deportista": "Clemente Seguel",
     "Prueba": "Vela Láser R10",
     "Fecha": "30/07/2021 02:30",
+    "Resultado": "31° finaliza en 22°"
+  },
+  {
+    "Deportista": "Joaquín Nieman",
+    "Prueba": "Golf Ronda 3",
+    "Fecha": "30/07/2021 18:30",
     "Resultado": "-"
   },
   {
-    "Deportista": "J. Niemann y M. Pereira",
+    "Deportista": "Mito Pereira",
     "Prueba": "Golf Ronda 3",
     "Fecha": "30/07/2021 18:30",
     "Resultado": "-"
