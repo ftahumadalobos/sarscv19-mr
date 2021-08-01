@@ -261,42 +261,84 @@
     "Deportista": "Joaquín Nieman",
     "Prueba": "Golf Ronda 3",
     "Fecha": "30/07/2021 18:30",
-    "Resultado": "-"
+    "Resultado": "14°"
   },
   {
     "Deportista": "Mito Pereira",
     "Prueba": "Golf Ronda 3",
     "Fecha": "30/07/2021 18:30",
-    "Resultado": "-"
+    "Resultado": "3°"
   },
   {
     "Deportista": "Karen Gallardo",
     "Prueba": "Lanzamiento disco",
     "Fecha": "30/07/2021 20:30",
-    "Resultado": "-"
+    "Resultado": "16° (55,81m)"
   },
   {
     "Deportista": "Macarena Pérez",
     "Prueba": "BMX freestyle",
     "Fecha": "30/07/2021 21:00",
-    "Resultado": "-"
+    "Resultado": "7° clasifica a final"
+  },
+  {
+    "Deportista": "M. Grimalt y E. Grimalt",
+    "Prueba": "V. Playa: Chile vs Suiza",
+    "Fecha": "31/07/2021 09:00",
+    "Resultado": "Triunfo 2-0"
+  },
+  {
+    "Deportista": "Macarena Pérez",
+    "Prueba": "BMX freestyle final",
+    "Fecha": "31/07/2021 21:30",
+    "Resultado": "8°"
   },
   {
     "Deportista": "Arley Méndez",
     "Prueba": "Halterofilia 81 kilos",
     "Fecha": "31/07/2021 02:50",
-    "Resultado": "-"
+    "Resultado": "Retirado por lesión"
   },
   {
     "Deportista": "Yasmani Acosta",
     "Prueba": "Lucha grecorromana 130 k",
     "Fecha": "31/07/2021 22:00",
+    "Resultado": "Clasifica a pelear por el bronce"
+  },
+  {
+    "Deportista": "Joaquín Nieman",
+    "Prueba": "Golf Ronda 4",
+    "Fecha": "01/08/2021 04:00",
+    "Resultado": "10°"
+  },
+  {
+    "Deportista": "Mito Pereira",
+    "Prueba": "Golf Ronda 4",
+    "Fecha": "01/08/2021 04:00",
+    "Resultado": "4°"
+  },
+  {
+    "Deportista": "Gabriel Kehr",
+    "Prueba": "Lanzamiento martillo",
+    "Fecha": "01/08/2021 20:00",
     "Resultado": "-"
   },
   {
-    "Deportista": "G. Kehr y H. Mansilla",
+    "Deportista": "Humberto Mansilla",
     "Prueba": "Lanzamiento martillo",
-    "Fecha": "01/08/2021 20:00",
+    "Fecha": "01/08/2021 21:30",
+    "Resultado": "-"
+  },
+  {
+    "Deportista": "M. Grimalt y E. Grimalt",
+    "Prueba": "V. Playa - 8vos: Chile vs Rusia",
+    "Fecha": "02/08/2021 01:00",
+    "Resultado": "-"
+  },
+  {
+    "Deportista": "Yasmani Acosta",
+    "Prueba": "Lucha grecorromana - bronce 130 k",
+    "Fecha": "02/08/2021 06:00",
     "Resultado": "-"
   },
   {
@@ -327,11 +369,6 @@
     "Deportista": "M. Mailliard y K. Roco",
     "Prueba": "Canotaje C2 500m",
     "Fecha": "05/08/2021 20:30",
-    "Resultado": "-"
-  },
-  {
-    "Deportista": "J. Niemann y M. Pereira",
-    "Prueba": "Golf Ronda final",
     "Resultado": "-"
   }
 ]
