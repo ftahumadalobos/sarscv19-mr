@@ -345,24 +345,30 @@
     "Deportista": "Samuel Parot",
     "Prueba": "Ecuestre salto",
     "Fecha": "03/08/2021 08:00",
-    "Resultado": "-"
+    "Resultado": "31°"
   },
   {
     "Deportista": "Josefina Tapia",
     "Prueba": "Skateboarding park",
     "Fecha": "03/08/2021 20:00",
-    "Resultado": "-"
+    "Resultado": "19° heat 4"
   },
   {
     "Deportista": "María José Mailliard",
     "Prueba": "Canotaje C1 200m",
     "Fecha": "03/08/2021 20:30",
+    "Resultado": "Pasa a semifinales"
+  },
+  {
+    "Deportista": "Maria José Mailliard",
+    "Prueba": "Canotaje C1 200m - semifinal",
+    "Fecha": "04/08/2021 20:44",
     "Resultado": "-"
   },
   {
     "Deportista": "Esteban Bustos",
     "Prueba": "Pentatlón moderno",
-    "Fecha": "05/08/2021 00:00",
+    "Fecha": "05/08/2021 03:30",
     "Resultado": "-"
   },
   {
