@@ -367,13 +367,13 @@
   },
   {
     "Deportista": "Maria José Mailliard",
-    "Prueba": "Canotaje C1 200m - final B",
+    "Prueba": "Canotaje C1 200m - Final B",
     "Fecha": "04/08/2021 23:30",
     "Resultado": "2° finaliza 10°"
   },
   {
     "Deportista": "Esteban Bustos",
-    "Prueba": "Pentatlón moderno - esgrima",
+    "Prueba": "Pentatlón moderno - ronda ranking",
     "Fecha": "05/08/2021 03:30",
     "Resultado": "17°"
   },
@@ -381,12 +381,24 @@
     "Deportista": "M. Mailliard y K. Roco",
     "Prueba": "Canotaje C2 500m",
     "Fecha": "05/08/2021 20:30",
-    "Resultado": "-"
+    "Resultado": "6° heat 1"
+  },
+  {
+    "Deportista": "M. Mailliard y K. Roco",
+    "Prueba": "Canotaje C2 500m - Cuartos de final",
+    "Fecha": "05/08/2021 22:30",
+    "Resultado": "4°"
+  },
+  {
+    "Deportista": "M. Mailliard y K. Roco",
+    "Prueba": "Canotaje C2 500m - Final B",
+    "Fecha": "06/08/2021 23:30",
+    "Resultado": "1° finallizan 9°"
   },
   {
     "Deportista": "Esteban Bustos",
-    "Prueba": "Pentatlón moderno - nado",
+    "Prueba": "Pentatlón moderno",
     "Fecha": "07/08/2021 01:30",
-    "Resultado": "-"
+    "Resultado": "34°"
   }
 ]
